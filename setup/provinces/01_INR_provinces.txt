@@ -1,0 +1,4569 @@
+﻿#INR Rivers 
+8258 ={ #Nile1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8259 ={ #Nile2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8260 ={ #Nile3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8261 ={ #Nile4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8262 ={ #Nile5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8263 ={ #Nile6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8264 ={ #Nile7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8265 ={ #Nile8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8266 ={ #Nile9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8267 ={ #Nile10 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8268 ={ #Nile11 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8269 ={ #Nile12 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8270 ={ #Nile13 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8271 ={ #Nile14 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8272 ={ #Nile15 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8273 ={ #Nile16 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8274 ={ #Nile17 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8275 ={ #Nile18 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8276 ={ #Nile19 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8277 ={ #Nile20 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8278 ={ #Nile21 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8279 ={ #Nile22 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8280 ={ #Nile23 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8281 ={ #Nile24 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8282 ={ #Nile25 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8283 ={ #Nile26 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8284 ={ #Nile27 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8285 ={ #Nile28 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8286 ={ #Nile29 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8287 ={ #WhiteNile1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8288 ={ #WhiteNile2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8289 ={ #WhiteNile3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8290 ={ #WhiteNile4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8291 ={ #WhiteNile5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8292 ={ #WhiteNile6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8293 ={ #WhiteNile7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8294 ={ #Atbarah1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8295 ={ #Atbarah2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8296 ={ #Atbarah3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8297 ={ #Atbarah4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8298 ={ #Atbarah5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8299 ={ #Baetis1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8300 ={ #Baetis2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8301 ={ #Baetis3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8302 ={ #Baetis4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8303 ={ #Flumen Anas1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8304 ={ #Flumen Anas2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8305 ={ #Flumen Anas3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8306 ={ #Flumen Anas4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8307 ={ #Flumen Anas5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8308 ={ #Flumen Anas6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8309 ={ #Tagus1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8310 ={ #Tagus2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8311 ={ #Tagus3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8312 ={ #Tagus4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8313 ={ #Ebro1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8314 ={ #Ebro2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8315 ={ #Ebro3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8316 ={ #Ebro4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8317 ={ #Ebro5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8318 ={ #Ebro6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8319 ={ #Garonne1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8320 ={ #Garonne2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8321 ={ #Garonne3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8322 ={ #Garonne4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8323 ={ #Dordogne1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8324 ={ #Dordogne2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8325 ={ #Dordogne3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8326 ={ #Loire1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8327 ={ #Loire2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8328 ={ #Loire3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8329 ={ #Loire4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8330 ={ #Loire5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8331 ={ #Loire6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8332 ={ #Loire7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8333 ={ #Seine1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8334 ={ #Seine2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8335 ={ #Seine3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8336 ={ #Seine4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8337 ={ #Seine5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8338 ={ #Seine6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8339 ={ #Ems1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8340 ={ #Yonne1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8341 ={ #Yonne2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8342 ={ #Marne1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8343 ={ #Marne2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8344 ={ #Marne3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8345 ={ #Marne4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8346 ={ #Oise1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8347 ={ #Oise2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8348 ={ #Oise3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8349 ={ #Oise4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8350 ={ #Aisne1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8351 ={ #Aisne2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8352 ={ #Rhone1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8353 ={ #Rhone2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8354 ={ #Rhone3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8355 ={ #Rhone4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8356 ={ #Saone1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8357 ={ #Saone2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8358 ={ #Saone3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8359 ={ #Thames1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8360 ={ #Thames2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8361 ={ #Thames3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8362 ={ #Avon1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8363 ={ #Avon2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8364 ={ #Avon3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8365 ={ #Shannon1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8366 ={ #Shannon2 Shannon3-6306 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8367 ={ #Rhine1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8368 ={ #Rhine2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8369 ={ #Rhine3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8370 ={ #Rhine4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8371 ={ #Rhine5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8372 ={ #Main1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8373 ={ #Moselle1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8374 ={ #Moselle2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8375 ={ #Moselle3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8376 ={ #Maas1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8377 ={ #Maas2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8378 ={ #Maas3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8379 ={ #Maas4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8380 ={ #Maas5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8381 ={ #Maas6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8382 ={ #Maas7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8383 ={ #Maas8 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8384 ={ #IJssel1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8385 ={ #Elbe1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8386 ={ #Elbe2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8387 ={ #Elbe3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8388 ={ #Elbe4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8389 ={ #Elbe5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8390 ={ #Saale1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8391 ={ #Saale2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8392 ={ #Oder1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8393 ={ #Oder2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8394 ={ #Oder3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8395 ={ #Oder4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8396 ={ #Oder5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8397 ={ #Oder6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8398 ={ #Oder7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8399 ={ #Oder8 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8400 ={ #Oder9 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8401 ={ #Oder10 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8402 ={ #GotaAlv1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8403 ={ #Vistula1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8404 ={ #Vistula2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8405 ={ #Vistula3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8406 ={ #Vistula4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8407 ={ #Vistula5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8408 ={ #Vistula6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8409 ={ #Vistula7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8410 ={ #Ems2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8411 ={ #Vistula9 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8412 ={ #Vistula10 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8413 ={ #Vistula11 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8414 ={ #Vistula12 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8415 ={ #Vistula13 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8416 ={ #Bug1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8417 ={ #Bug2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8418 ={ #Bug3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8419 ={ #Bug4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8420 ={ #Bug5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8421 ={ #Bug6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8422 ={ #Bug7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8423 ={ #Neman1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8424 ={ #Neman2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8425 ={ #Neman3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8426 ={ #Tiber1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8427 ={ #Tiber2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8428 ={ #Tiber3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8429 ={ #Po1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8430 ={ #Po2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8431 ={ #Po3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8432 ={ #Po4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8433 ={ #Po5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8434 ={ #Po6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8435 ={ #Po7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8436 ={ #Po8 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8437 ={ #Tanaro1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8438 ={ #Tanaro2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8439 ={ #Ticino1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8440 ={ #Mincio1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8441 ={ #Panaro1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8442 ={ #Po9 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8443 ={ #Danube1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8444 ={ #Danube2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8445 ={ #Danube3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8446 ={ #Danube4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8447 ={ #Danube5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8448 ={ #Danube6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8449 ={ #Danube7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8450 ={ #Danube8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8451 ={ #Danube9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8452 ={ #Danube10 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8453 ={ #Danube11 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8454 ={ #Danube12 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8455 ={ #Danube13 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8456 ={ #Danube14 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8457 ={ #Danube15 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8458 ={ #Danube16 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8459 ={ #Danube17 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8460 ={ #Danube18 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8461 ={ #Danube19 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8462 ={ #Danube20 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8463 ={ #Danube21 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8464 ={ #Danube22 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8465 ={ #Danube23 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8466 ={ #Danube24 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8467 ={ #Sio1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8468 ={ #Sio2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8469 ={ #Drava1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8470 ={ #Drava2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8471 ={ #Drava3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8472 ={ #Drava4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8473 ={ #Drava5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8474 ={ #Drava6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8475 ={ #Tisa1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8476 ={ #Tisa2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8477 ={ #Tisa3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8478 ={ #Tisa4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8479 ={ #Tisa5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8480 ={ #Tisa6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8481 ={ #Koros1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8482 ={ #Koros2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8483 ={ #Maros1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8484 ={ #Maros2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8485 ={ #Sava1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8486 ={ #Sava2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8487 ={ #Sava3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8488 ={ #Sava4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8489 ={ #Sava5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8490 ={ #Sava6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8491 ={ #Sava7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8492 ={ #Sava8 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8493 ={ #Jiu1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8494 ={ #Jiu2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8495 ={ #Jiu3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8496 ={ #Olt1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8497 ={ #Olt2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8498 ={ #Olt3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8499 ={ #Arges1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8500 ={ #Arges2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8501 ={ #Ialomita1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8502 ={ #Ialomita2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8503 ={ #Siret1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8504 ={ #Siret2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8505 ={ #Buzau1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8506 ={ #Prut1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8507 ={ #Prut2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8508 ={ #Prut3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8509 ={ #Prut4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8510 ={ #Prut5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8511 ={ #Prut6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8512 ={ #Dniester1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8513 ={ #Dniester2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8514 ={ #Dniester3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8515 ={ #Dniester4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8516 ={ #Don1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8517 ={ #Don2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8518 ={ #Don3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8519 ={ #Don4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8520 ={ #Don5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8521 ={ #Don6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8522 ={ #Volga1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8523 ={ #Volga2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8524 ={ #Volga3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8525 ={ #Volga4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8526 ={ #Volga5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8527 ={ #Volga6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8528 ={ #Volga7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8529 ={ #Kura1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8530 ={ #Kura2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8531 ={ #Kura3 Kura4-6429 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8532 ={ #Aras1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8533 ={ #Aras2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8534 ={ #Aras3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8535 ={ #Tigris1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8536 ={ #Tigris2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8537 ={ #Tigris3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8538 ={ #Tigris4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8539 ={ #Tigris5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8540 ={ #Tigris6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8541 ={ #Tigris7 Tigris8-6422 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8542 ={ #Tigris9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8543 ={ #Uzaym1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8544 ={ #Uzaym2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8545 ={ #Diyala1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8546 ={ #Diyala2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8547 ={ #Charraf1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8548 ={ #Charraf2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8549 ={ #Euphrates1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8550 ={ #Euphrates2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8551 ={ #Euphrates3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8552 ={ #Euphrates4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8553 ={ #Euphrates5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8554 ={ #Euphrates6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8555 ={ #Euphrates7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8556 ={ #Euphrates8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8557 ={ #Euphrates9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8558 ={ #Euphrates10 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8559 ={ #Euphrates11 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8560 ={ #Euphrates12 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8561 ={ #Khabur1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8562 ={ #Khabur2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8563 ={ #Hindiyah1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8564 ={ #Hindiyah2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8569 ={ #Oxus1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8570 ={ #Oxus2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8571 ={ #Oxus3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8572 ={ #Oxus4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8573 ={ #Oxus5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8574 ={ #Oxus6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8575 ={ #Oxus7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8576 ={ #Oxus8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8577 ={ #Oxus9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8578 ={ #Oxus10 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8579 ={ #Oxus11 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8580 ={ #Indus1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8581 ={ #Indus2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8582 ={ #Indus3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8583 ={ #Indus4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8584 ={ #Indus5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8585 ={ #Satluj1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8586 ={ #Satluj2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8587 ={ #Satluj3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8588 ={ #Satluj4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8589 ={ #Satluj5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8590 ={ #Satluj6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8591 ={ #Chenab1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8592 ={ #Chenab2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8593 ={ #Chenab3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8594 ={ #Chenab4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8595 ={ #Chenab5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8596 ={ #Chenab6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8597 ={ #Indus6 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8598 ={ #Indus7 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8599 ={ #Indus8 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8600 ={ #Narmada1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8601 ={ #Narmada2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8602 ={ #Narmada3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8603 ={ #Narmada4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8604 ={ #Narmada5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8605 ={ #Narmada6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8606 ={ #Narmada7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8607 ={ #Narmada8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8608 ={ #Ganges1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8609 ={ #Ganges2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8610 ={ #Ganges3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8611 ={ #Ganges4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8612 ={ #Ganges5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8613 ={ #Ganges6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8614 ={ #Ganges7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8615 ={ #Ganges8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8616 ={ #Ganges9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8617 ={ #Ganges10 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8618 ={ #Ganges11 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8619 ={ #Yamuna1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8620 ={ #Yamuna2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8621 ={ #Yamuna3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8622 ={ #Yamuna4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8623 ={ #Yamuna5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8624 ={ #Yamuna6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8625 ={ #Yamuna7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8626 ={ #Yamuna8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8627 ={ #Yamuna9 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8628 ={ #Yamuna10 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8629 ={ #Chambal1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8630 ={ #Chambal2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8631 ={ #Chambal3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8632 ={ #Chambal4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8633 ={ #Chambal5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8634 ={ #Betwa1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8635 ={ #Betwa2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8636 ={ #Betwa3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8637 ={ #Betwa4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8638 ={ #Gomti1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8639 ={ #Gomti2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8640 ={ #Gomti3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8641 ={ #Gomti4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8642 ={ #Gomti5 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8643 ={ #Ghaghara1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8644 ={ #Ghaghara2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8645 ={ #Ghaghara3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8646 ={ #Ghaghara4 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8647 ={ #Brahmaputra1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8648 ={ #Brahmaputra2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8649 ={ #Brahmaputra3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8650 ={ #Brahmaputra4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8651 ={ #Brahmaputra5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8652 ={ #Brahmaputra6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8653 ={ #Brahmaputra7 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8654 ={ #Brahmaputra8 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8655 ={ #Ganges12 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+
+
+#Aral Sea 
+8565 ={ #Aral1 
+	terrain="coastal_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8566 ={ #Aral2 
+	terrain="coastal_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8567 ={ #Aral3 
+	terrain="coastal_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8568 ={ #Aral4 
+	terrain="ocean" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8656 ={ #Gandak1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8657 ={ #Gandak2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8658 ={ #Kosi1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8659 ={ #Kosi2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8660 ={ #Brahmani1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8661 ={ #Mahanadi1
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8662 ={ #Mahanadi2
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8663 ={ #Tel1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8664 ={ #Tel2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8665 ={ #Tel3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8666 ={ #Godavari1
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8667 ={ #Godavari2
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8668 ={ #Godavari3
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8669 ={ #Godavari4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8670 ={ #Godavari5
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8671 ={ #Godavari6
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8672 ={ #Godavari7
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8673 ={ #Godavari8
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8674 ={ #Wainganga1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8675 ={ #Wainganga2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8676 ={ #Wainganga3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8677 ={ #Krishna1
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8678 ={ #Krishna2
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8679 ={ #Krishna3
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8680 ={ #Krishna4
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8681 ={ #Krishna5
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8682 ={ #Krishna6
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8683 ={ #Krishna7
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8684 ={ #Krishna8
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8685 ={ #Bhima1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8686 ={ #Bhima2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8687 ={ #Bhima3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8688 ={ #Bhima4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8689 ={ #Tungabhadra1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8690 ={ #Tungabhadra2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8691 ={ #Tungabhadra3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8692 ={ #Musi1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8693 ={ #Penner1
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8694 ={ #Penner2
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8695 ={ #Penner3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8696 ={ #Penner4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8697 ={ #Palar1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8698 ={ #Ponnaiyar1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8699 ={ #Cauvery1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8700 ={ #Cauvery2
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8701 ={ #Cauvery3
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8702 ={ #Cauvery4
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8703 ={ #Cauvery5
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8704 ={ #Kollidam1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8705 ={ #Tapi1
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8706 ={ #Tapi2
+	terrain="riverine_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8707 ={ #Tapi3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8708 ={ #Tapi4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8709 ={ #Tapi5
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8710 ={ #Mahi1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8711 ={ #Mahi2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8712 ={ #Mahi3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8713 ={ #Somme1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8714 ={ #Somme2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8715 ={ #Somme3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8716 ={ #Somme4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8717 ={ #Rioni1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8718 ={ #Rioni2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8719 ={ #Rioni3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8720 ={ #Kuban1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8721 ={ #Kuban2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8722 ={ #Kuban3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8723 ={ #Kuban4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8724 ={ #Kuban5
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8725 ={ #Kuban6
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8726 ={ #Terek1
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8727 ={ #Terek2
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8728 ={ #Terek3
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+8729 ={ #Terek4
+	terrain="tributary_terrain"
+	culture=""
+	religion=""
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+8730 ={ #Jaxartes1 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8731 ={ #Jaxartes2 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8732 ={ #Jaxartes3 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8733 ={ #Jaxartes4 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8734 ={ #Jaxartes5 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8735 ={ #Jaxartes6 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8736 ={ #Severn2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8737 ={ #Durius2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+} 
+8738 ={ #Durius3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8739 ={ #Trent1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8740 ={ #Trent2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8741 ={ #Trent3 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8742 ={ #Oues1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8743 ={ #Oues2 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8744 ={ #Weser1 
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8745 ={ #Weser2
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8746 ={ #Sububus1
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8747 ={ #Sububus2
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8748 ={ #Sububus3
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8749 ={ #Strymon1
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8750 ={ #Evros1
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8751 ={ #Evros2
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8752 ={ #Evros3
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8753 ={ #Hypanis1
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8754 ={ #Hypanis2
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8755 ={ #Hypanis3
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8756 ={ #Hypanis4
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8757 ={ #Oxus12
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8758 ={ #Oxus13
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8759 ={ #Oxus14
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8760 ={ #Oxus15
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8761 ={ #Oxus16
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8762 ={ #WhiteNile8
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
+8763 ={ #Tritonis1
+	terrain="tributary_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
