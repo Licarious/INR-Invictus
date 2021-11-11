@@ -32,6 +32,9 @@ supply_train_tributary_terrain_combat_bonus = {
 engineer_cohort_tributary_terrain_combat_bonus = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
+spearmen_tributary_terrain_combat_bonus = {
+	positive = "gfx/interface/icons/_default.dds" #Unused
+}
 tributary_terrain_combat_bonus = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
