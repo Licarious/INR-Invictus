@@ -2796,7 +2796,7 @@ oder_river_area = {
 	provinces = { 8392 8393 8394 8395 8396 8397 8398 8399 8400 8401 } 
 } 
 gotaalv_river_area = { 
-	provinces = { 8402 6351 } 
+	provinces = { 8402 6351 6443 } 
 } 
 vistula_river_area = { 
 	provinces = { 8403 8404 8405 8406 8407 8408 8409 8411 8412 8413 8414 8415 8416 8417 8418 8419 8420 8421 8422 } 

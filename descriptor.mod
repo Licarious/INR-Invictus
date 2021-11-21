@@ -1,5 +1,5 @@
 name="INR - Invictus"
-version="1.1"
+version="1.1.3"
 dependencies={
 	"Imperators' Navigable Rivers"
 	"Imperator: Invictus"
