@@ -11,6 +11,7 @@
  hexere_tributary_terrain_combat_bonus:0 "Hexere Tributary/Rapids Combat Modifier"
  octere_tributary_terrain_combat_bonus:0 "Octere Tributary/Rapids Combat Modifier"
  mega_galley_tributary_terrain_combat_bonus:0 "Mega-Polyreme Tributary/Rapids Combat Modifier"
+ tributary_terrain_combat_bonus:0 "Tributary/Rapids Combat Bonus"
  
  INR_Terrain.1:0 "your not suppose to be here"
  INR_Terrain.1.t:0 "no one is suppose to be here"

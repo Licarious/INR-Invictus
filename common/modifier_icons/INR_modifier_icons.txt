@@ -36,7 +36,7 @@ spearmen_tributary_terrain_combat_bonus = {
 	positive = "gfx/interface/icons/_default.dds" #Unused
 }
 tributary_terrain_combat_bonus = {
-	positive = "gfx/interface/icons/_default.dds" #Unused
+	positive = "gfx/interface/icons/modifiers/riverine_terrain_combat_bonus.dds"
 }
 
 
