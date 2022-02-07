@@ -760,8 +760,12 @@ storm.11 = {
 			days = { 1 360 }
 		}
 		trigger_event = {
-			id = storm.200 #Fezzan
-			days = { 10 180 }
+			id = storm.30 #Fezzan/Atlas
+			days = { 90 180 }
+		}
+		trigger_event = {
+			id = storm.31 #Fezzan/Atlas
+			days = { 10 90 }
 		}
 	}
 }
@@ -778,7 +782,10 @@ storm.12 = { #Egypt
 					is_in_region = lower_egypt_region
 					is_in_region = cyrenaica_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -796,7 +803,10 @@ storm.12 = { #Egypt
 						is_in_region = lower_egypt_region
 						is_in_region = cyrenaica_region
 					}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -824,7 +834,10 @@ storm.13 = {
 					is_in_region = lower_egypt_region
 					is_in_region = cyrenaica_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -842,7 +855,10 @@ storm.13 = {
 						is_in_region = lower_egypt_region
 						is_in_region = cyrenaica_region
 					}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -870,7 +886,10 @@ storm.14 = {
 					is_in_region = arabia_region
 					is_in_region = arabia_felix_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -888,7 +907,10 @@ storm.14 = {
 						is_in_region = arabia_region
 						is_in_region = arabia_felix_region
 					}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -916,7 +938,10 @@ storm.15 = {
 					is_in_region = arabia_region
 					is_in_region = arabia_felix_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -934,7 +959,10 @@ storm.15 = {
 					is_in_region = arabia_region
 					is_in_region = arabia_felix_region
 				}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -964,7 +992,10 @@ storm.16 = { #Persia
 					is_in_region = ariana_region
 					is_in_region = parthia_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -984,7 +1015,10 @@ storm.16 = { #Persia
 						is_in_region = ariana_region
 						is_in_region = parthia_region
 					}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -1014,7 +1048,10 @@ storm.17 = {
 					is_in_region = ariana_region
 					is_in_region = parthia_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -1034,7 +1071,10 @@ storm.17 = {
 						is_in_region = ariana_region
 						is_in_region = parthia_region
 					}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -1062,7 +1102,10 @@ storm.18 = {
 					is_in_region = scythia_region
 					is_in_region = sogdiana_region
 				}
-				terrain = desert
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -1080,7 +1123,10 @@ storm.18 = {
 						is_in_region = scythia_region
 						is_in_region = sogdiana_region
 					}
-					terrain = desert
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
 					NOT = { has_province_modifier = desert_storm }
 				}
 				add_vfx = {
@@ -1109,7 +1155,10 @@ storm.19 = { #Extra
 							is_in_region = mesopotamia_region
 							is_in_region = syria_region
 						}
-						terrain = desert
+						or = {
+							terrain = desert
+							terrain = desert_hills
+						}
 						NOT = { has_province_modifier = desert_storm }
 					}
 					add_vfx = {
@@ -1127,7 +1176,10 @@ storm.19 = { #Extra
 								is_in_region = mesopotamia_region
 								is_in_region = syria_region
 							}
-							terrain = desert
+							or = {
+								terrain = desert
+								terrain = desert_hills
+							}
 							NOT = { has_province_modifier = desert_storm }
 						}
 						add_vfx = {
@@ -1148,7 +1200,10 @@ storm.19 = { #Extra
 							is_in_region = maru_region
 							is_in_region = gandhara_region
 						}
-						terrain = desert
+						or = {
+							terrain = desert
+							terrain = desert_hills
+						}
 						NOT = { has_province_modifier = desert_storm }
 					}
 					add_vfx = {
@@ -1165,7 +1220,10 @@ storm.19 = { #Extra
 								is_in_region = maru_region
 								is_in_region = gandhara_region
 							}
-							terrain = desert
+							or = {
+								terrain = desert
+								terrain = desert_hills
+							}
 							NOT = { has_province_modifier = desert_storm }
 						}
 						add_vfx = {
@@ -1186,7 +1244,10 @@ storm.19 = { #Extra
 							is_in_region = nubia_region
 							is_in_region = punt_region
 						}
-						terrain = desert
+						or = {
+							terrain = desert
+							terrain = desert_hills
+						}
 						NOT = { has_province_modifier = desert_storm }
 					}
 					add_vfx = {
@@ -1203,7 +1264,10 @@ storm.19 = { #Extra
 								is_in_region = nubia_region
 								is_in_region = punt_region
 							}
-							terrain = desert
+							or = {
+								terrain = desert
+								terrain = desert_hills
+							}
 							NOT = { has_province_modifier = desert_storm }
 						}
 						add_vfx = {
@@ -1234,7 +1298,10 @@ storm.20 = { #Extra
 							is_in_region = africa_region
 							is_in_region = syria_region
 						}
-						terrain = desert
+						or = {
+							terrain = desert
+							terrain = desert_hills
+						}
 						NOT = { has_province_modifier = desert_storm }
 					}
 					add_vfx = {
@@ -1251,7 +1318,10 @@ storm.20 = { #Extra
 								is_in_region = nubia_region
 								is_in_region = punt_region
 							}
-							terrain = desert
+							or = {
+								terrain = desert
+								terrain = desert_hills
+							}
 							NOT = { has_province_modifier = desert_storm }
 						}
 						add_vfx = {
@@ -1269,7 +1339,10 @@ storm.20 = { #Extra
 				random_province = { #Tarim
 					limit = {
 						is_in_region = himalayan_region
-						terrain = desert
+						or = {
+							terrain = desert
+							terrain = desert_hills
+						}
 						NOT = { has_province_modifier = desert_storm }
 					}
 					add_vfx = {
@@ -1286,7 +1359,10 @@ storm.20 = { #Extra
 								is_in_region = nubia_region
 								is_in_region = punt_region
 							}
-							terrain = desert
+							or = {
+								terrain = desert
+								terrain = desert_hills
+							}
 							NOT = { has_province_modifier = desert_storm }
 						}
 						add_vfx = {
@@ -1307,15 +1383,21 @@ storm.20 = { #Extra
 	}
 }
 
-storm.200 = { #Egypt
+storm.30 = { #Fezzan/Atlas
 	type = country_event
 	hidden = yes
 	immediate = {
 		#Fezzan
 		random_province = {
 			limit = {
-				is_in_region = fezzan_region
-				terrain = desert
+				or = {
+					is_in_region = fezzan_region
+					is_in_region = atlas_region
+				}
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
 				NOT = { has_province_modifier = desert_storm }
 			}
 			add_vfx = {
@@ -1328,10 +1410,13 @@ storm.200 = { #Egypt
 			}
 			every_neighbor_province = {
 				limit = {
-					is_in_region = fezzan_region
-					OR = {
-						terrain = coastal_terrain
-						terrain = ocean
+					or = {
+						is_in_region = fezzan_region
+						is_in_region = atlas_region
+					}
+					or = {
+						terrain = desert
+						terrain = desert_hills
 					}
 					NOT = { has_province_modifier = desert_storm }
 				}
@@ -1347,6 +1432,56 @@ storm.200 = { #Egypt
 		}
 	}
 }
+storm.31 = { #Fezzan/Atlas
+	type = country_event
+	hidden = yes
+	immediate = {
+		#Fezzan
+		random_province = {
+			limit = {
+				or = {
+					is_in_region = fezzan_region
+					is_in_region = atlas_region
+				}
+				or = {
+					terrain = desert
+					terrain = desert_hills
+				}
+				NOT = { has_province_modifier = desert_storm }
+			}
+			add_vfx = {
+				name = "desert_sandstorm"
+				duration = 60
+			}
+			add_province_modifier = {
+				name = "desert_storm"
+				duration = 60
+			}
+			every_neighbor_province = {
+				limit = {
+					or = {
+						is_in_region = fezzan_region
+						is_in_region = atlas_region
+					}
+					or = {
+						terrain = desert
+						terrain = desert_hills
+					}
+					NOT = { has_province_modifier = desert_storm }
+				}
+				add_vfx = {
+					name = "desert_sandstorm"
+					duration = 60
+				}
+				add_province_modifier = {
+					name = "desert_storm"
+					duration = 60
+				}
+			}
+		}
+	}
+}
+
 
 #Winter Storms
 storm.21 = {
