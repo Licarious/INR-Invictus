@@ -2862,13 +2862,13 @@ tiber_river_area = {
 kura_river_area = { 
 	provinces = { 6429 8670 8671 8672 8673 8674 8675 } 
 } 
-mare_aral_area = { 
+mare_aral_area = { #5
 	provinces = { 
 		8706 8707 8708 8709 
 		6444 
 	} 
 } 
-mare_caspian_area = { 
+mare_caspian_area = { #32
 	provinces = { 
 		2988 2989 2990 2991 2992 2993 2994 2995 2996 2997 2998 2999 
 		4569 4570 4571 4572 4573 4574 4575 4576 4577 4578 4579 4580 4581 4582 4583 4584 4585 4586 4587 4588 
