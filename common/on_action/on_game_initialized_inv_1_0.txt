@@ -97,11 +97,21 @@
 
 		#new starts
 		startup_events.9
-
+		me_dodekaschoinos.1
 		#the Diadochi CB code
 		province_siege.2
-		##Temporary Psylli Truce
-		north_african_flavor.5
+		#Ashoka Temporary health boost
+		flavor_maurya.4
+		#All mauryan provinces list event
+		flavor_maurya.15
+		
+		#Barbarian starts - 1-6 Germania
+		startup_barbaricum.1
+		startup_barbaricum.2
+		startup_barbaricum.3
+		startup_barbaricum.4
+		startup_barbaricum.5
+		startup_barbaricum.6
 	}
 
 	effect = {
@@ -532,19 +542,15 @@
 				}
 			}
 		}
-		#Harvest Seasons
-		trigger_event = { id = harvest.1 months = 2 }
-		every_province = {
-			add_province_modifier = {
-					name = harvest_day1boost_modifier
-					duration = 31
-				}
 		if = {
 			limit = {
 				NOT = { has_global_variable = province_init_inv_done }
 			}
 			trigger_event = { id = harvest.1 months = 2 }
 			every_province = {
+				limit = {
+					has_owner = yes
+				}
 				add_province_modifier = {
 					name = harvest_day1boost_modifier
 					duration = 31
@@ -555,7 +561,7 @@
 					NOR = {
 						is_sea = yes
 						terrain = riverine_terrain
-						terrain = tributary_terrain
+						terrain = tributary_terrain	#Added Tributary terrain where riverine also exists as about half of the rivers are that terrain type
 						has_city_status = yes
 					}
 				}
@@ -564,5 +570,11 @@
 			set_global_variable = province_init_inv_done
 		}
 		#Civilization to settlements next to cities
+		if = {
+			limit = {
+				NOT = { has_global_variable = is_playing_invictus }
+			}
+			set_global_variable = is_playing_invictus #For other mods to check for Invictus stuff without errors plz don't remove
+		}
+	}
 	}	
-}
