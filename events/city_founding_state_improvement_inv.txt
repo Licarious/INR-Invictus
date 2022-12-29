@@ -30,6 +30,12 @@ state_improvement.6 = { #Toggles City Status
 		}
 		if = {
 			limit = {
+				has_province_modifier = samaria_modifier_12
+				}
+			remove_province_modifier = samaria_modifier_12
+		}
+		if = {
+			limit = {
 				OR = {
 					trade_goods = grain
 					trade_goods = fish
