@@ -2,8 +2,8 @@
 
 INR_Terrain.1 = {
 	type = country_event
-	title = INR_Terrain.1.t
-	desc = INR_Terrain.1.d
+	title = "INR_Terrain.1.t"
+	desc = "INR_Terrain.1.d"
 	picture = ascetic
 	hidden = yes
 	
