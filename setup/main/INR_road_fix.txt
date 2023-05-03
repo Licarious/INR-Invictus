@@ -12,4 +12,12 @@ road_network = {
 	804 = 803	#Nicephorium-Resafa
 	868 = 861	#Dhahir-Apqu
 	862 = 861	#Nineveh-Apqu
+	
+	902 = 901
+	901 = 910
+	910 = 915
+	
+	810 = 807
+	809 = 817
+	828 = 908
 }

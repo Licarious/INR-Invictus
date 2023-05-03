@@ -446,3 +446,131 @@
 	barbarian_power=0 
 	province_rank="" 
 } 
+
+9774={ #Jungle
+	terrain="impassable_terrain"
+	culture="kuntalan"
+	religion="agama"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9775={ #Jungle
+	terrain="impassable_terrain"
+	culture="telugu"
+	religion="agama"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9776={ #Jungle
+	terrain="impassable_terrain"
+	culture="telugu"
+	religion="agama"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9777={ #Jungle
+	terrain="impassable_terrain"
+	culture="alupan"
+	religion="agama"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9778={ #Jungle
+	terrain="impassable_terrain"
+	culture="tamil"
+	religion="agama"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9779={ #Jungle
+	terrain="impassable_terrain"
+	culture="tamil"
+	religion="agama"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+
+9780={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="asturian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9781={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9782={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="vettonian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9783={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="carpetanian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9784={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="cantabrian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9785={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="asturian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9786={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="asturian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
+9787={ #Iberian Impassable
+	terrain="impassable_terrain"
+	culture="callaecian"
+	religion="druidism"
+	trade_goods=""
+	civilization_value=0
+	barbarian_power=0
+	province_rank=""
+}
