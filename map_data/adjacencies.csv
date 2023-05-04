@@ -255,345 +255,347 @@
 ### Europe ###
 ## Italia ##
 # Padus #
-144;142;river_large;9283;1664;2608;1666;2598;Spina-Ravenna
-3591;149;river_large;9284;1612;2622;1612;2615;VicusVarianus-Mutina
-3572;3574;river_large;9286;1490;2658;1490;2648;Ticinum-Clastidium
-3551;3558;river_large;9288;1393;2658;1399;2652;AugustaTaurinorum-Vardagate
-3555;3556;river_large;9289;1436;2636;1435;2629;FulviiValentinum-Statiellae
-3583;3584;river_large;9292;1576;2674;1583;2676;Ariolica-Verona
+144;142;river_large;9283;1664;2608;1666;2598;Spina~Ravenna
+3591;149;river_large;9284;1612;2622;1612;2615;VicusVarianus~Mutina
+3572;3574;river_large;9286;1490;2658;1490;2648;Ticinum~Clastidium
+3551;3558;river_large;9288;1393;2658;1399;2652;AugustaTaurinorum~Vardagate
+3555;3556;river_large;9289;1436;2636;1435;2629;FulviiValentinum~Statiellae
+3583;3584;river_large;9292;1576;2674;1583;2676;Ariolica~Verona
 # Arnus #
-137;136;river_large;9293;1561;2530;1563;2521;Luna-Pisae
+137;136;river_large;9293;1561;2530;1563;2521;Luna~Pisae
 # Tiberis #
-15;1;river_large;9295;1699;2361;1703;2357;Ostia-Roma
-16;20;river_large;9296;1709;2393;1717;2395;Veii-Reate
+15;1;river_large;9295;1699;2361;1703;2357;Ostia~Roma
+16;20;river_large;9296;1709;2393;1717;2395;Veii~Reate
 ## Iberia ##
 # Baetis #
-1378;1377;river_large;9159;515;2091;516;2084;Epora-Corduba
-1383;1381;river_large;9299;575;2083;580;2089;Iliturgis-Castulo
+1378;1377;river_large;9159;515;2091;516;2084;Epora~Corduba
+1383;1381;river_large;9299;575;2083;580;2089;Iliturgis~Castulo
 # Flumen Anas #
-1425;1429;river_large;9301;359;2196;364;2192;AdAtrumFlumen-CelticaInferioris
-1400;1436;river_large;9303;440;2194;443;2187;AugustaEmerita-Metellinum
+1425;1429;river_large;9301;359;2196;364;2192;AdAtrumFlumen~CelticaInferioris
+1400;1436;river_large;9303;440;2194;443;2187;AugustaEmerita~Metellinum
 # Tagus #
-1437;340;river_large;9306;473;2268;471;2260;Augustobriga-CalvriaSeptentrionalis
-1200;1438;river_large;9308;539;2274;538;2267;CarpetaniaSuperioris-Caesarobriga
+1437;340;river_large;9306;473;2268;471;2260;Augustobriga~CalvriaSeptentrionalis
+1200;1438;river_large;9308;539;2274;538;2267;CarpetaniaSuperioris~Caesarobriga
 # Durius #
-1289;1291;river_large;9310;303;2420;303;2412;Tongobriga-Langobriga
-1156;1290;river_large;9312;382;2412;380;2403;VicusVagornicensis-Aravorum
+1289;1291;river_large;9310;303;2420;303;2412;Tongobriga~Langobriga
+1156;1290;river_large;9312;382;2412;380;2403;VicusVagornicensis~Aravorum
 # Iberus #
-1011;1070;river_large;9313;831;2367;838;2373;Celsa-GallikaPhlaouia
-1089;1088;river_large;9315;777;2417;783;2423;Cascantum-Ilurcis
-1064;1241;river_large;9316;896;2359;901;2353;Etobesa-Olobesa
+1011;1070;river_large;9313;831;2367;838;2373;Celsa~GallikaPhlaouia
+1089;1088;river_large;9315;777;2417;783;2423;Cascantum~Ilurcis
+1064;1241;river_large;9316;896;2359;901;2353;Etobesa~Olobesa
 ## Gaul ##
 # Garumna #
-2271;2270;river_large;9318;948;2587;952;2594;Cascantum-Ilurcis
-2263;2262;river_large;9320;1028;2562;1029;2570;Etobesa-Olobesa
-2289;2234;river_large;9322;879;2664;880;2674;Cascantum-Ilurcis
-2329;2327;river_large;9324;967;2655;968;2647;Etobesa-Olobesa
+2271;2270;river_large;9318;948;2587;952;2594;Lactora~Aginnum
+2263;2262;river_large;9320;1028;2562;1029;2570;Albiga~Segodunum
+2289;2234;river_large;9322;879;2664;880;2674;Lucaniacum~Burdigala
+2329;2327;river_large;9324;967;2655;968;2647;Nonniacus~Acuciago
 # Liger #
-2425;2408;river_large;9326;1028;2914;1035;2910;Cascantum-Ilurcis
-2416;2417;river_large;9327;1076;2898;1080;2906;Cascantum-Ilurcis
-2368;2367;river_large;9329;1111;2829;1122;2832;Cascantum-Ilurcis
+2425;2408;river_large;9326;1028;2914;1035;2910;Blesum~NoviodunumBiturigum
+2416;2417;river_large;9327;1076;2898;1080;2906;Brivodurum~Belca
+2368;2367;river_large;9329;1111;2829;1122;2832;Tincontium~Decetia
 # Sequana #
-2475;2444;river_large;9332;1070;3004;1071;3012;Cascantum-Ilurcis
-2481;2483;river_large;9333;1080;2975;1085;2980;Cascantum-Ilurcis
-2448;2486;river_large;9334;1152;2966;1154;2976;Cascantum-Ilurcis
-2448;2480;river_large;9337;1123;2952;1116;2949;Cascantum-Ilurcis
-2432;2430;river_large;9338;1142;2894;1147;2899;Cascantum-Ilurcis
-2485;2484;river_large;9339;1113;3010;1114;3017;Cascantum-Ilurcis
-2490;2450;river_large;9341;1191;3004;1197;3008;Cascantum-Ilurcis
-2472;2444;river_large;9343;1081;3033;1085;3029;Cascantum-Ilurcis
-3044;3043;river_large;9346;1155;3097;1155;3089;Cascantum-Ilurcis
-2492;2452;river_large;9347;1137;3041;1139;3049;Cascantum-Ilurcis
+2475;2444;river_large;9332;1070;3004;1071;3012;Lutetia~Catalacus
+2481;2483;river_large;9333;1080;2975;1085;2980;Mellodunum~Cala
+2448;2486;river_large;9334;1152;2966;1154;2976;Agedincum~Lucia
+2448;2480;river_large;9337;1123;2952;1116;2949;Agedincum~Montargia
+2432;2430;river_large;9338;1142;2894;1147;2899;CoraVicus~Tornodurum
+2485;2484;river_large;9339;1113;3010;1114;3017;Riobe~Calagum
+2490;2450;river_large;9341;1191;3004;1197;3008;Malliacus~Durocatalaunum
+2472;2444;river_large;9343;1081;3033;1085;3029;BrivaIsarae~Catalacus
+3044;3043;river_large;9346;1155;3097;1155;3089;Sefulae~AugustaViromanduorum
+2492;2452;river_large;9347;1137;3041;1139;3049;Odomagus~AugustaSuessionum
 # Scaldis #
-3843;3844;river_large;9349;1179;3237;1185;3244;Cascantum-Ilurcis
-3678;3707;river_large;9350;1193;3193;1199;3185;Cascantum-Ilurcis
-3675;3041;river_large;9351;1149;3170;1153;3163;Cascantum-Ilurcis
+3843;3844;river_large;9349;1179;3237;1185;3244;Ganuenta~Fletio
+3678;3707;river_large;9350;1193;3193;1199;3185;Condacum~Andellium
+3675;3041;river_large;9351;1149;3170;1153;3163;Cortoriacum~Turnacum
 # Rhodanus #
-2303;2301;river_large;9353;1227;2718;1228;2724;Cascantum-Ilurcis
-2302;2301;river_large;9354;1204;2733;1209;2736;Cascantum-Ilurcis
-2365;2358;river_large;9356;1218;2788;1225;2788;Cascantum-Ilurcis
-2319;2321;river_large;9357;1208;2546;1214;2552;Cascantum-Ilurcis
+2303;2301;river_large;9353;1227;2718;1228;2724;Octavus~Lugdunum
+2302;2301;river_large;9354;1204;2733;1209;2736;Seguslavorum~Lugdunum
+2365;2358;river_large;9356;1218;2788;1225;2788;Pocrinnium~Isarnodurum
+2319;2321;river_large;9357;1208;2546;1214;2552;Arelate~Avennio
 ## Britain ##
 # Tamesis #
-901;2027;river_large;9359;901;3267;909;3272;Cascantum-Ilurcis
+901;2027;river_large;9359;901;3267;909;3272;Tell Aswad~Verulamium
 # Sabrina #
-2049;2039;river_large;9360;841;3303;848;3298;Cascantum-Ilurcis
-2060;2059;river_large;9362;830;3367;835;3374;Cascantum-Ilurcis
-2048;2061;river_large;9363;867;3326;870;3317;Cascantum-Ilurcis
+2049;2039;river_large;9360;841;3303;848;3298;Vertis~Korinion
+2060;2059;river_large;9362;830;3367;835;3374;Savicum~Viroconium
+2048;2061;river_large;9363;867;3326;870;3317;Alauna~Dorn
 # Abus #
-2075;3057;river_large;8036;953;3450;953;3443;Cascantum-Ilurcis
-2077;2075;river_large;9365;925;3467;932;3467;Cascantum-Ilurcis
-2058;2068;river_large;9368;936;3404;942;3404;Cascantum-Ilurcis
+2075;3057;river_large;8036;953;3450;953;3443;Eboracum~Hessulum
+2077;2075;river_large;9365;925;3467;932;3467;Isurium~Eboracum
+2058;2068;river_large;9368;936;3404;942;3404;Lindum~Petuaria
 # Sionna #
-2184;2191;river_large;6306;552;3481;562;3479;Cascantum-Ilurcis
+2184;2191;river_large;6306;552;3481;562;3479;GanganiaSeptentrionalis~ManapiaOccidentalis
 ## Germanic ##
 # Rhenus #
-3056;3055;river_large;9173;1430;3054;1440;3055;Cascantum-Ilurcis
-3023;3025;river_large;9371;1414;2984;1422;2981;Cascantum-Ilurcis
-3019;3022;river_large;9373;1382;2917;1388;2914;Cascantum-Ilurcis
-3699;7732;river_large;9374;1436;3093;1439;3086;Cascantum-Ilurcis
-3721;3722;river_large;9375;1376;3110;1379;3103;Cascantum-Ilurcis
-3689;3690;river_large;9376;1325;3065;1326;3059;Cascantum-Ilurcis
-3845;3846;river_large;9378;1205;3259;1208;3265;Cascantum-Ilurcis
-3711;3712;river_large;9379;1278;3250;1283;3255;Cascantum-Ilurcis
-3681;3718;river_large;9382;1278;3165;1286;3164;Cascantum-Ilurcis
-3704;7732;river_large;9383;1230;3155;1237;3155;Cascantum-Ilurcis
-3050;3686;river_large;9385;1245;3044;1251;3046;Cascantum-Ilurcis
-3851;3776;river_large;9386;1312;3280;1317;3277;Cascantum-Ilurcis
+3056;3055;river_large;9173;1430;3054;1440;3055;Borbetomagus~Lopodunum
+3023;3025;river_large;9371;1414;2984;1422;2981;Brocomagus~AureliaAquensis
+3019;3022;river_large;9373;1382;2917;1388;2914;Argentovaria~Tarodunon
+3699;7732;river_large;9374;1436;3093;1439;3086;AquaeMattiacorum~Vicus Augustanus
+3721;3722;river_large;9375;1376;3110;1379;3103;Confluentes~Vosolvia
+3689;3690;river_large;9376;1325;3065;1326;3059;Andethanna~AugustaTreverorum
+3845;3846;river_large;9378;1205;3259;1208;3265;Marsacia~Lugadurum
+3711;3712;river_large;9379;1278;3250;1283;3255;Blariacum~Batavodurum
+3681;3718;river_large;9382;1278;3165;1286;3164;Tungrorum~AquaeGranni
+3704;7732;river_large;9383;1230;3155;1237;3155;BataviaCentralis~Vicus Augustanus
+3050;3686;river_large;9385;1245;3044;1251;3046;Mosomagus~Eposium
+3851;3776;river_large;9386;1312;3280;1317;3277;Isala~Asciburgium
 # Amisius #
-3833;3836;river_large;9387;1365;3380;1367;3387;Cascantum-Ilurcis
-3779;3780;river_large;9388;1370;3319;1376;3321;Cascantum-Ilurcis
+3833;3836;river_large;9387;1365;3380;1367;3387;Amisia~Amsivaria
+3779;3780;river_large;9388;1370;3319;1376;3321;Salia~Teuderium
 # Visurgis #
-3839;3838;river_large;9389;1438;3380;1444;3381;Cascantum-Ilurcis
-3829;3962;river_large;9390;1476;3339;1483;3340;Cascantum-Ilurcis
+3839;3838;river_large;9389;1438;3380;1444;3381;Visurgis~Angrivaria
+3829;3962;river_large;9390;1476;3339;1483;3340;Ascalingium~Idistavisus
 # Albis #
-3968;3909;river_large;7888;1618;3295;1627;3288;Cascantum-Ilurcis
-3988;3996;river_large;9392;1681;3240;1691;3247;Cascantum-Ilurcis
-3966;3950;river_large;9394;1618;3239;1626;3241;Cascantum-Ilurcis
+3968;3909;river_large;7888;1618;3295;1627;3288;Mersovium~Mesuium
+3988;3996;river_large;9392;1681;3240;1691;3247;Caluconia~Graetana
+3966;3950;river_large;9394;1618;3239;1626;3241;Aregelliana~Calaegia
 # Viadua #
-3984;3908;river_large;9396;1748;3346;1761;3348;Cascantum-Ilurcis
-4001;4762;river_large;9398;1794;3275;1797;3284;Cascantum-Ilurcis
-4004;4770;river_large;9400;1884;3241;1891;3246;Cascantum-Ilurcis
-4012;4778;river_large;9403;1982;3161;1990;3162;Cascantum-Ilurcis
+3984;3908;river_large;9396;1748;3346;1761;3348;Burgia~Viritium
+4001;4762;river_large;9398;1794;3275;1797;3284;Diduniana~Buguntia
+4004;4770;river_large;9400;1884;3241;1891;3246;DiduniaOrientalis~Vindua
+4012;4778;river_large;9403;1982;3161;1990;3162;Viadria~Lygia
 # Gota Alv #
-6025;6012;river_large;9405;1619;3792;1624;3786;Cascantum-Ilurcis
+6025;6012;river_large;9405;1619;3792;1624;3786;Scandia~Scandia
 ## Baltic ##
 # Ouistoula #
-6273;6275;river_large;9183;2153;3302;2164;3306;Cascantum-Ilurcis
-6259;6260;river_large;9408;2208;3199;2217;3200;Cascantum-Ilurcis
-4496;4890;river_large;9410;2122;3128;2125;3119;Cascantum-Ilurcis
-6277;6275;river_large;9412;2138;3345;2141;3337;Cascantum-Ilurcis
-6291;6292;river_large;9415;2293;3295;2300;3291;Cascantum-Ilurcis
-6249;6248;river_large;9417;2340;3203;2346;3206;Cascantum-Ilurcis
+6273;6275;river_large;9183;2153;3302;2164;3306;Sopha~Korotan
+6259;6260;river_large;9408;2208;3199;2217;3200;Urgana~Folla
+4496;4890;river_large;9410;2122;3128;2125;3119;Machhindrapur~Agrum*
+6277;6275;river_large;9412;2138;3345;2141;3337;Duretica~Korotan
+6291;6292;river_large;9415;2293;3295;2300;3291;Vorytta~Trakylli
+6249;6248;river_large;9417;2340;3203;2346;3206;Celavira~Bonava
 # Turuntus #
-7830;7809;river_large;9419;2137;3581;2143;3589;Cascantum-Ilurcis
-7807;8501;river_large;9420;2248;3578;2253;3586;Cascantum-Ilurcis
-8497;8498;river_large;9421;2281;3536;2287;3535;Cascantum-Ilurcis
-8496;8491;river_large;9423;2345;3463;2350;3457;Cascantum-Ilurcis
-8502;8505;river_large;9426;2305;3581;2306;3590;Cascantum-Ilurcis
-8507;8524;river_large;9428;2408;3562;2415;3566;Cascantum-Ilurcis
+7830;7809;river_large;9419;2137;3581;2143;3589;Galindia Occidentalis~Rubonia Orientalis
+7807;8501;river_large;9420;2248;3578;2253;3586;Saloia~Pagramancio
+8497;8498;river_large;9421;2281;3536;2287;3535;Utinoye~Vistytis
+8496;8491;river_large;9423;2345;3463;2350;3457;Wigierski~Monki
+8502;8505;river_large;9426;2305;3581;2306;3590;Timofeevo~Glitu
+8507;8524;river_large;9428;2408;3562;2415;3566;Aristava~Izha
 ## Central Europe ##
 # Strymon #
-366;365;river_large;9429;2470;2337;2475;2340;Cascantum-Ilurcis
+366;365;river_large;9429;2470;2337;2475;2340;Tragilos~Amfipolis
 # Evros #
-357;364;river_large;9430;2628;2364;2634;2356;Cascantum-Ilurcis
-491;489;river_large;9432;2637;2442;2644;2445;Cascantum-Ilurcis
+357;364;river_large;9430;2628;2364;2634;2356;Sale~Philippi
+491;489;river_large;9432;2637;2442;2644;2445;Bourdepa~Nike
 # Danuvius #
-4169;4844;river_large;9190;2080;2772;2090;2772;Cascantum-Ilurcis
-4157;4855;river_large;9435;2078;2887;2087;2889;Cascantum-Ilurcis
-4150;3927;river_large;9437;1999;2901;2002;2910;Cascantum-Ilurcis
-3653;3920;river_large;9439;1918;2936;1924;2944;Cascantum-Ilurcis
-3648;3917;river_large;9442;1810;2930;1811;2940;Cascantum-Ilurcis
-3761;3817;river_large;9444;1731;2960;1732;2967;Cascantum-Ilurcis
-3765;3766;river_large;9446;1626;2976;1623;2983;Cascantum-Ilurcis
-3750;3771;river_large;9448;1553;2952;1551;2957;Cascantum-Ilurcis
-4164;4161;river_large;9451;2060;2815;2062;2822;Cascantum-Ilurcis
-4184;4171;river_large;9453;2039;2727;2042;2737;Cascantum-Ilurcis
-4137;4140;river_large;9456;1941;2783;1941;2791;Cascantum-Ilurcis
-4842;4832;river_large;9458;2174;2712;2182;2718;Cascantum-Ilurcis
-4847;4840;river_large;9460;2162;2801;2171;2800;Cascantum-Ilurcis
-4853;4857;river_large;9462;2172;2902;2179;2894;Cascantum-Ilurcis
-4858;4851;river_large;9465;2235;2861;2237;2854;Cascantum-Ilurcis
-4840;4834;river_large;9466;2197;2783;2199;2775;Cascantum-Ilurcis
-4193;4195;river_large;9468;2189;2656;2196;2652;Cascantum-Ilurcis
-4129;4191;river_large;9470;2088;2663;2095;2669;Cascantum-Ilurcis
-4074;4183;river_large;9472;2002;2668;2006;2676;Cascantum-Ilurcis
-4038;4181;river_large;9475;1925;2709;1932;2714;Cascantum-Ilurcis
-4278;4270;river_large;9476;2420;2629;2427;2634;Cascantum-Ilurcis
-4275;4274;river_large;9478;2371;2682;2374;2690;Cascantum-Ilurcis
-4268;4820;river_large;9480;2445;2655;2454;2658;Cascantum-Ilurcis
-4816;4815;river_large;9482;2543;2668;2545;2674;Cascantum-Ilurcis
-4811;4812;river_large;9484;2618;2697;2615;2704;Cascantum-Ilurcis
-4804;4627;river_large;9486;2621;2796;2627;2803;Cascantum-Ilurcis
-4804;4806;river_large;9488;2637;2774;2641;2768;Cascantum-Ilurcis
-4802;4800;river_large;9489;2665;2809;2673;2813;Cascantum-Ilurcis
-4932;4928;river_large;9491;2634;2919;2640;2927;Cascantum-Ilurcis
-4194;4937;river_large;9493;2547;3010;2556;3015;Cascantum-Ilurcis
+4169;4844;river_large;9190;2080;2772;2090;2772;Lugio~Florentia
+4157;4855;river_large;9435;2078;2887;2087;2889;Aquincum~Ocara
+4150;3927;river_large;9437;1999;2901;2002;2910;Arrabona~Celamantia
+3653;3920;river_large;9439;1918;2936;1924;2944;Quadriburgium~RegniaPrima
+3648;3917;river_large;9442;1810;2930;1811;2940;Lauriacum~Adrabae
+3761;3817;river_large;9444;1731;2960;1732;2967;Petrensibus~Brodentica
+3765;3766;river_large;9446;1626;2976;1623;2983;Abusina~Germanicum
+3750;3771;river_large;9448;1553;2952;1551;2957;Rapis~Aquileia
+4164;4161;river_large;9451;2060;2815;2062;2822;Alisca~Intercisa
+4184;4171;river_large;9453;2039;2727;2042;2737;Dravia~Serena
+4137;4140;river_large;9456;1941;2783;1941;2791;Populi~Salia
+4842;4832;river_large;9458;2174;2712;2182;2718;Acumincum~Tibirsia
+4847;4840;river_large;9460;2162;2801;2171;2800;Partiskon~Zurobara
+4853;4857;river_large;9462;2172;2902;2179;2894;Anartia~Tisia
+4858;4851;river_large;9465;2235;2861;2237;2854;Metanastia~Crisia
+4840;4834;river_large;9466;2197;2783;2199;2775;Zurobara~Lixisis
+4193;4195;river_large;9468;2189;2656;2196;2652;Altina~Singidunum
+4129;4191;river_large;9470;2088;2663;2095;2669;Sarvia~Causilena
+4074;4183;river_large;9472;2002;2668;2006;2676;Servitium~Incero
+4038;4181;river_large;9475;1925;2709;1932;2714;Andautonia~Savia
+4278;4270;river_large;9476;2420;2629;2427;2634;Amutria~Pelendava
+4275;4274;river_large;9478;2371;2682;2374;2690;AdMutrium~Confluenta
+4268;4820;river_large;9480;2445;2655;2454;2658;Acidava~Ciagisia
+4816;4815;river_large;9482;2543;2668;2545;2674;Napuca~Pirum
+4811;4812;river_large;9484;2618;2697;2615;2704;Sornus~Sensia
+4804;4627;river_large;9486;2621;2796;2627;2803;Britolagia~Rayyis
+4804;4806;river_large;9488;2637;2774;2641;2768;Britolagia~Cotesiana
+4802;4800;river_large;9489;2665;2809;2673;2813;Agarusia~Piroboridava
+4932;4928;river_large;9491;2634;2919;2640;2927;Millianum*~Leptidava*
+4194;4937;river_large;9493;2547;3010;2556;3015;Gensis~Confluentia*
 # Pontic Steppe #
 # Tyras #
-4195;4937;river_large;7883;2679;2991;2687;2994;Cascantum-Ilurcis
-4936;6070;river_large;9496;2593;3040;2595;3049;Cascantum-Ilurcis
-4939;4543;river_large;9498;2493;3033;2492;3043;Cascantum-Ilurcis
+4195;4937;river_large;7883;2679;2991;2687;2994;Singidunum~Confluentia*
+4936;6070;river_large;9496;2593;3040;2595;3049;Verticem*~Lechta
+4939;4543;river_large;9498;2493;3033;2492;3043;Octavum*~Athenaion
 # Hypanis #
-7187;6100;river_large;9191;2856;2988;2860;2996;Cascantum-Ilurcis
-6088;6096;river_large;9500;2763;3046;2763;3052;Cascantum-Ilurcis
+7187;6100;river_large;9191;2856;2988;2860;2996;Ektonopolis*~Hkraniyat
+6088;6096;river_large;9500;2763;3046;2763;3052;Kmekhich~Vyelinat
 # Tanais #
-6187;6183;river_large;9502;3365;3210;3375;3218;Cascantum-Ilurcis
-5899;5892;river_large;9505;3506;3110;3508;3101;Cascantum-Ilurcis
+6187;6183;river_large;9502;3365;3210;3375;3218;Zhutikka~Yuty
+5899;5892;river_large;9505;3506;3110;3508;3101;Gura~Sechem
 # Rha #
-5876;8050;river_large;8047;3850;3156;3854;3165;Cascantum-Ilurcis
-5899;8050;river_large;8047;3862;3196;3869;3202;Cascantum-Ilurcis
-5877;5878;river_large;8048;3910;3255;3913;3264;Cascantum-Ilurcis
-6221;6225;river_large;9507;3778;3255;3779;3264;Cascantum-Ilurcis
-6218;6221;river_large;9508;3720;3258;3728;3263;Cascantum-Ilurcis
-6217;5892;river_large;9510;3680;3321;3690;3327;Cascantum-Ilurcis
-6209;6211;river_large;9511;3599;3276;3609;3278;Cascantum-Ilurcis
+5876;8050;river_large;8047;3850;3156;3854;3165;Sechtra~Moslar
+5899;8050;river_large;8047;3862;3196;3869;3202;Gura~Moslar
+5877;5878;river_large;8048;3910;3255;3913;3264;PASS~PASS
+6221;6225;river_large;9507;3778;3255;3779;3264;Zhelk~Monok
+6218;6221;river_large;9508;3720;3258;3728;3263;Mennichak~Zhelk
+6217;5892;river_large;9510;3680;3321;3690;3327;Ogron~Sechem
+6209;6211;river_large;9511;3599;3276;3609;3278;Ydomor~Urgenarcha
 # Kuban #
-7600;7612;river_large;9514;3313;2920;3308;2929;Cascantum-Ilurcis
-7609;5933;river_large;9517;3469;2969;3478;2970;Cascantum-Ilurcis
+7600;7612;river_large;9514;3313;2920;3308;2929;Sabiranum~Maran
+7609;5933;river_large;9517;3469;2969;3478;2970;Hypanispa~Vylda
 # Terek #
-5866;7633;river_large;9519;3877;2978;3885;2974;Cascantum-Ilurcis
-7626;5869;river_large;9521;3772;2914;3770;2922;Cascantum-Ilurcis
+5866;7633;river_large;9519;3877;2978;3885;2974;Zabender~Kayit*
+7626;5869;river_large;9521;3772;2914;3770;2922;Arukai*~Magrai
 ### Africa ###
 # Sububus #
-3073;3075;river_large;9523;416;1805;423;1811;Cascantum-Ilurcis
+3073;3075;river_large;9523;416;1805;423;1811;Gilda~Viposcianae
 # Mater Vernis #
-6301;6491;river_large;9525;188;1720;195;1726;Cascantum-Ilurcis
-6480;6479;river_large;9526;213;1663;216;1670;Cascantum-Ilurcis
+6301;6491;river_large;9525;188;1720;195;1726;Rutubis~Azama
+6480;6479;river_large;9526;213;1663;216;1670;Amrane~Bouzerrara
 # Tritonis #
-3289;3291;river_large;9527;1545;1668;1547;1656;Cascantum-Ilurcis
+3289;3291;river_large;9527;1545;1668;1547;1656;Bennata~Tacape
 # Nile #
-592;591;river_large;9158;3450;975;3458;978;Cascantum-Ilurcis
-598;596;river_large;9529;3439;869;3445;865;Cascantum-Ilurcis
-600;601;river_large;9531;3376;817;3382;810;Cascantum-Ilurcis
-606;7581;river_large;9534;3321;692;3328;688;Cascantum-Ilurcis
-611;613;river_large;9538;3352;516;3360;519;Cascantum-Ilurcis
-619;614;river_large;9540;3402;440;3403;450;Cascantum-Ilurcis
-623;625;river_large;9542;3469;468;3477;464;Cascantum-Ilurcis
-626;645;river_large;9545;3542;587;3555;587;Cascantum-Ilurcis
-629;628;river_large;9547;3650;523;3661;528;Cascantum-Ilurcis
-635;634;river_large;9549;3682;458;3693;456;Cascantum-Ilurcis
-643;644;river_large;9551;3647;368;3652;358;Cascantum-Ilurcis
-3312;3314;river_large;9554;3602;251;3615;252;Cascantum-Ilurcis
-8725;8109;river_large;9557;3634;108;3645;111;Cascantum-Ilurcis
-3314;3313;river_large;9558;3632;249;3637;258;Cascantum-Ilurcis
-8106;8627;river_large;9560;3739;168;3744;175;Cascantum-Ilurcis
-634;632;river_large;9561;3704;463;3703;472;Cascantum-Ilurcis
-7587;3322;river_large;9562;3790;427;3798;433;Cascantum-Ilurcis
-7589;3328;river_large;9565;3930;297;3937;302;Cascantum-Ilurcis
-8642;8644;river_large;9567;3973;195;3980;201;Cascantum-Ilurcis
+592;591;river_large;9158;3450;975;3458;978;Talmis~Syene
+598;596;river_large;9529;3439;869;3445;865;Premis~Aramum
+600;601;river_large;9531;3376;817;3382;810;Pachora~Serra
+606;7581;river_large;9534;3321;692;3328;688;Saye~Pderme
+611;613;river_large;9538;3352;516;3360;519;Orsum~Patigga
+619;614;river_large;9540;3402;440;3403;450;Segasa~Bagada
+623;625;river_large;9542;3469;468;3477;464;Dumuna~Cortum
+626;645;river_large;9545;3542;587;3555;587;Napata~Kurgus
+629;628;river_large;9547;3650;523;3661;528;Sankole~Alana
+635;634;river_large;9549;3682;458;3693;456;Galim~Darou
+643;644;river_large;9551;3647;368;3652;358;Araba~Wad ban Naqa
+3312;3314;river_large;9554;3602;251;3615;252;Petta*~Alwa
+8725;8109;river_large;9557;3634;108;3645;111;Santah~Rabak
+3314;3313;river_large;9558;3632;249;3637;258;Alwa~Soba***
+8106;8627;river_large;9560;3739;168;3744;175;Amara~Fao
+634;632;river_large;9561;3704;463;3703;472;Darou~Abale
+7587;3322;river_large;9562;3790;427;3798;433;Anak*~Borassa
+7589;3328;river_large;9565;3930;297;3937;302;Abliata~Thana*
+8642;8644;river_large;9567;3973;195;3980;201;Baqbaqah~Barakit
 ### Asia ###
 ## Central Asia ##
 # Daikos #
-5879;5880;river_large;9568;4049;3382;4057;3388;Cascantum-Ilurcis
-8940;5933;river_large;9570;3990;3492;3998;3494;Cascantum-Ilurcis
-9112;9111;river_large;9573;3872;3661;3881;3663;Cascantum-Ilurcis
+5879;5880;river_large;9568;4049;3382;4057;3388;PASS~PASS
+8940;5933;river_large;9570;3990;3492;3998;3494;Inder~Vylda
+9112;9111;river_large;9573;3872;3661;3881;3663;Uase~Levedi
 # Oxus #
-5424;6811;river_large;9574;4453;2849;4458;2838;Cascantum-Ilurcis
-5452;6808;river_large;9576;4576;2919;4579;2908;Cascantum-Ilurcis
-5455;5454;river_large;9578;4565;3052;4575;3054;Cascantum-Ilurcis
-5477;6797;river_large;9579;4601;3156;4612;3149;Cascantum-Ilurcis
-6800;9238;river_large;9582;4833;3194;4835;3203;Cascantum-Ilurcis
-6708;9236;river_large;9584;4984;3124;4987;3135;Cascantum-Ilurcis
-7241;7230;river_large;9587;5157;3081;5161;3090;Cascantum-Ilurcis
-6686;6690;river_large;9591;5379;3014;5378;3113;Cascantum-Ilurcis
-6803;9240;river_large;9593;4698;3218;4701;3228;Cascantum-Ilurcis
-5484;7260;river_large;9595;4619;3314;4631;3318;Cascantum-Ilurcis
+5424;6811;river_large;9574;4453;2849;4458;2838;Venas~Hazar
+5452;6808;river_large;9576;4576;2919;4579;2908;Oshin~Uzboia
+5455;5454;river_large;9578;4565;3052;4575;3054;Palimek~Yatsha
+5477;6797;river_large;9579;4601;3156;4612;3149;Kilich~Vezir
+6800;9238;river_large;9582;4833;3194;4835;3203;Hazarasp~Sho'rtakli
+6708;9236;river_large;9584;4984;3124;4987;3135;Chadracarta~Qarako'l
+7241;7230;river_large;9587;5157;3081;5161;3090;Shor~Kerkichi
+6686;6690;river_large;9591;5377;3104;5378;3113;Termaio~Sangin
+6803;9240;river_large;9593;4698;3218;4701;3228;Gurganj~Sokkul
+5484;7260;river_large;9595;4619;3314;4631;3318;Cammei~Kupir*
 # Jaxartes #
-8895;7254;river_large;9596;4637;3571;4643;3564;Cascantum-Ilurcis
-7248;8974;river_large;9600;4875;3613;4876;3623;Cascantum-Ilurcis
-7250;7251;river_large;9602;5028;3577;5031;3587;Cascantum-Ilurcis
-7278;7267;river_large;9605;5269;3429;5265;3435;Cascantum-Ilurcis
+8895;7254;river_large;9596;4637;3571;4643;3564;Tabankuduk~Boot*
+7248;8974;river_large;9600;4875;3613;4876;3623;Janaqala~Zharagash
+7250;7251;river_large;9602;5028;3577;5031;3587;Koga*~Besta*
+7278;7267;river_large;9605;5269;3429;5265;3435;Padri*~Araq*
 ## Western India ##
 # Indus #
-4319;4330;river_large;9612;5879;2906;5888;2909;Cascantum-Ilurcis
-6103;9264;river_large;9204;6103;2817;6114;2813;Cascantum-Ilurcis
-4393;7485;river_large;9614;6147;2929;6157;2931;Cascantum-Ilurcis
-4390;4418;river_large;9616;6227;3014;6232;3009;Cascantum-Ilurcis
-4350;4349;river_large;9617;5999;2753;6007;2756;Cascantum-Ilurcis
-4384;4380;river_large;9619;5994;2897;6000;2895;Cascantum-Ilurcis
-4315;4340;river_large;9621;6045;3046;6054;3042;Cascantum-Ilurcis
-6852;7220;river_large;9625;6147;2283;6153;2286;Cascantum-Ilurcis
-4358;5356;river_large;9624;0;0;0;0;Cascantum-Ilurcis
-4357;5356;river_large;9625;0;0;0;0;Cascantum-Ilurcis
+4319;4330;river_large;9612;5879;2906;5888;2909;Sattagydae~Gogaraioi
+6103;9264;river_large;9204;6103;2817;6114;2813;Vashschka~Chishtian
+4393;7485;river_large;9614;6147;2929;6157;2931;Okara*~Sodal
+4390;4418;river_large;9616;6227;3014;6232;3009;Jalandhara~Satadru
+4350;4349;river_large;9617;5999;2753;6007;2756;Mulasthanapura/Multan~Malava
+4384;4380;river_large;9619;5994;2897;6000;2895;Kekaya~Malloi
+4315;4340;river_large;9621;6045;3046;6054;3042;Nikaia~Sakala
+6852;7220;river_large;9625;6147;2283;6153;2286;Samarabriva~Saraswata
+4358;5356;sea;9624;0;0;0;0;Singai~IP 357
+4357;5356;sea;9625;0;0;0;0;Umarkot~IP 357
 # Mahi #
-6854;6855;river_large;9626;6510;2275;6516;2271;Cascantum-Ilurcis
-4478;4499;river_large;9628;6514;2417;6520;2418;Cascantum-Ilurcis
+6854;6855;river_large;9626;6510;2275;6516;2271;Kheta~Vadaora/Baroda
+4478;4499;river_large;9628;6514;2417;6520;2418;Devnimori~Navagramaka
 # Narmada #
-7421;7422;river_large;9630;6769;2485;6778;2479;Cascantum-Ilurcis
+7421;7422;river_large;9630;6769;2485;6778;2479;Narmadapuram~Betul*
 # Tapi #
-7125;7182;river_large;9634;6712;2286;6715;2279;Cascantum-Ilurcis
-7316;7126;river_large;9635;6777;2359;6785;2353;Cascantum-Ilurcis
+7125;7182;river_large;9634;6712;2286;6715;2279;Pandavleni******~Jhodga
+7316;7126;river_large;9635;6777;2359;6785;2353;Khargone*~Burhanpur******
 ## Eastern India ##
 # Mahanadi #
-7086;7173;river_large;9637;7501;2822;7496;2831;Cascantum-Ilurcis
-7100;7171;river_large;9638;7400;2755;7405;2746;Cascantum-Ilurcis
-7166;7168;river_large;9640;7278;2731;7274;2724;Cascantum-Ilurcis
-7068;7096;river_large;9641;7135;2695;7136;2687;Cascantum-Ilurcis
+7086;7173;river_large;9637;7501;2822;7496;2831;Tosali~Caritra
+7100;7171;river_large;9638;7400;2755;7405;2746;Mahdnada~Bhuvanesvara
+7166;7168;river_large;9640;7278;2731;7274;2724;Vinitapura~Suvarnapura
+7068;7096;river_large;9641;7135;2695;7136;2687;Bhurhikara~Kosala
 # Brahmani #
-7174;7173;river_large;9643;7485;2870;7493;2862;Cascantum-Ilurcis
-9248;9247;river_large;9644;7380;2792;7379;2798;Cascantum-Ilurcis
-9254;9253;river_large;9646;7290;2847;7293;2854;Cascantum-Ilurcis
+7174;7173;river_large;9643;7485;2870;7493;2862;Jajatipura~Caritra
+9248;9247;river_large;9644;7380;2792;7379;2798;Kamalanga~Kamakhyanagar
+9254;9253;river_large;9646;7290;2847;7293;2854;Deogarh~Lahunipara
 # Ganges #
-4426;7404;river_large;9231;6578;2934;6578;2945;Cascantum-Ilurcis
-4404;4454;river_large;9649;6463;2995;6471;3002;Cascantum-Ilurcis
-7219;7375;river_large;9652;6757;2864;6756;2877;Cascantum-Ilurcis
-7408;7218;river_large;9654;6605;2853;6603;2861;Cascantum-Ilurcis
-4405;4421;river_large;9656;6450;2912;6453;2920;Cascantum-Ilurcis
-4411;4412;river_large;9658;6382;2982;6390;2986;Cascantum-Ilurcis
-7472;7408;river_large;9659;6645;2853;6641;2862;Cascantum-Ilurcis
-7306;7307;river_large;9661;6594;2792;6600;2789;Cascantum-Ilurcis
-7440;7435;river_large;9662;6556;2684;6563;2681;Cascantum-Ilurcis
-7471;4435;river_large;9665;6722;2813;6728;2805;Cascantum-Ilurcis
-4429;7371;river_large;9668;6956;2984;6955;2991;Cascantum-Ilurcis
-7382;7483;river_large;9671;6813;2977;6810;2985;Cascantum-Ilurcis
-4456;7406;river_large;9672;6698;2989;6702;2994;Cascantum-Ilurcis
-7478;7477;river_large;9673;7036;3086;7034;3093;Cascantum-Ilurcis
-4455;4437;river_large;9676;6840;3018;6837;3024;Cascantum-Ilurcis
-7477;4448;river_large;9677;7047;3130;7051;3139;Cascantum-Ilurcis
-4457;4458;river_large;9679;6915;3157;6921;3160;Cascantum-Ilurcis
-4462;7480;river_large;9680;7180;3183;7179;3190;Cascantum-Ilurcis
-7342;7348;river_large;9683;7448;3514;7456;3511;Cascantum-Ilurcis
-7351;7352;river_large;9686;7542;3696;7550;3696;Cascantum-Ilurcis
-7345;7393;river_large;9691;7479;3072;7485;3069;Cascantum-Ilurcis
+4426;7404;river_large;9231;6578;2934;6578;2945;Kampili~Anupshahr*
+4404;4454;river_large;9649;6463;2995;6471;3002;Hastinapur~Matipura
+7219;7375;river_large;9652;6757;2864;6756;2877;Suktivati~Kahnpuria
+7408;7218;river_large;9654;6605;2853;6603;2861;Batesar~Yamaprastha
+4405;4421;river_large;9656;6450;2912;6453;2920;Indraprastha~Varana
+4411;4412;river_large;9658;6382;2982;6390;2986;Sthanishvara~Karnal
+7472;7408;river_large;9659;6645;2853;6641;2862;Bhind*~Batesar
+7306;7307;river_large;9661;6594;2792;6600;2789;Ranasthambapura~Sripatha
+7440;7435;river_large;9662;6556;2684;6563;2681;Khandar*~Ramgarh
+7471;4435;river_large;9665;6722;2813;6728;2805;Orai*~Erakaccha
+4429;7371;river_large;9668;6956;2984;6955;2991;Varanasi~Jamadaganipura
+7382;7483;river_large;9671;6813;2977;6810;2985;Raebareli***~Mehdawal*
+4456;7406;river_large;9672;6698;2989;6702;2994;Nimisa (forest?)~Sitapur*
+7478;7477;river_large;9673;7036;3086;7034;3093;Rivilganj*~Saran*
+4455;4437;river_large;9676;6840;3018;6837;3024;Jaisingpur~Ayodhya
+7477;4448;river_large;9677;7047;3130;7051;3139;Saran*~Vaisali
+4457;4458;river_large;9679;6915;3157;6921;3160;Lumbini~Ramagrama
+4462;7480;river_large;9680;7180;3183;7179;3190;Modgagiri~Saharsa
+7342;7348;river_large;9683;7448;3514;7456;3511;Hajo~Davaka
+7351;7352;river_large;9686;7542;3696;7550;3696;Japa*~Turupa*
+7345;7393;river_large;9691;7479;3072;7485;3069;Nabadwipa~Kasipur
 # Irrawaddy #
-8770;8771;river_large;9692;8091;3237;8100;3244;Cascantum-Ilurcis
-8788;8774;river_large;9693;7977;3299;7981;3309;Cascantum-Ilurcis
-8778;8789;river_large;9695;7944;3469;7954;3479;Cascantum-Ilurcis
+8770;8771;river_large;9692;8091;3237;8100;3244;Taledan~Sri Ksetra
+8788;8774;river_large;9693;7977;3299;7981;3309;Salin~Ywa Htin Kon
+8778;8789;river_large;9695;7944;3469;7954;3479;Halin~Pai
 ## Southern India ##
 # Godavari #
-7056;7123;river_large;9222;7290;2333;7291;2346;Cascantum-Ilurcis
-7124;7155;river_large;9698;7146;2350;7155;2349;Cascantum-Ilurcis
-7158;8789;river_large;9700;7024;2272;7031;2265;Cascantum-Ilurcis
-7146;7161;river_large;9702;6896;2197;6896;2207;Cascantum-Ilurcis
-7133;5317;river_large;9697;0;0;0;0;Cascantum-Ilurcis
-7124;5317;river_large;9704;0;0;0;0;Cascantum-Ilurcis
-7115;5317;river_large;9705;0;0;0;0;Cascantum-Ilurcis
-7077;5317;river_large;9705;0;0;0;0;Cascantum-Ilurcis
-7077;7151;river_large;9705;7055;2489;7052;2498;Cascantum-Ilurcis
-7451;7129;river_large;9707;6982;2593;6988;2598;Cascantum-Ilurcis
+7056;7123;river_large;9222;7290;2333;7291;2346;Gummididurru~Alatnapura*
+7124;7155;river_large;9698;7146;2350;7155;2349;Dhamna*~Kaulas
+7158;8789;river_large;9700;7024;2272;7031;2265;Indur~Pai
+7146;7161;river_large;9702;6896;2197;6896;2207;Asmakhala~Darur
+7133;5317;sea;9697;0;0;0;0;Kotilingala~IP 318
+7124;5317;sea;9704;0;0;0;0;Dhamna*~IP 318
+7115;5317;sea;9705;0;0;0;0;Wairagar~IP 318
+7077;5317;sea;9705;0;0;0;0;Cikamburika~IP 318
+7077;7151;river_large;9705;7055;2489;7052;2498;Cikamburika~Vairagara
+7451;7129;river_large;9707;6982;2593;6988;2598;Seoni*~Gondia
 # Krishna #
-7049;7013;river_large;9708;7250;2150;7260;2148;Cascantum-Ilurcis
-7120;7154;river_large;9710;7123;2054;7119;2064;Cascantum-Ilurcis
-7110;7109;river_large;9713;6977;1967;6982;1960;Cascantum-Ilurcis
-7092;7053;river_large;9715;7059;2080;7059;2087;Cascantum-Ilurcis
-7106;7127;river_large;9718;6877;2064;6880;2070;Cascantum-Ilurcis
-7120;7091;river_large;9719;7169;2050;7174;2041;Cascantum-Ilurcis
-7072;7006;river_large;9721;7092;1908;7100;1902;Cascantum-Ilurcis
-7057;7055;river_large;9788;7214;2207;7219;2215;Cascantum-Ilurcis
+7049;7013;river_large;9708;7250;2150;7260;2148;Naconda~Srisailam
+7120;7154;river_large;9710;7123;2054;7119;2064;Raichur~Guriprava*
+7110;7109;river_large;9713;6977;1967;6982;1960;Vayapata*~Vijayapura*******
+7092;7053;river_large;9715;7059;2080;7059;2087;Katriyal~Sannathi
+7106;7127;river_large;9718;6877;2064;6880;2070;Buravhala*~Trinagua
+7120;7091;river_large;9719;7169;2050;7174;2041;Raichur~Bhakkuli
+7072;7006;river_large;9721;7092;1908;7100;1902;Palkigunda~Uccasrngi
+7057;7055;river_large;9788;7214;2207;7219;2215;Nagarjunikonda~Pravarapura
 # Penner #
-7005;7024;river_large;9724;7205;1935;7213;1938;Cascantum-Ilurcis
+7005;7024;river_large;9724;7205;1935;7213;1938;Brahmagiri~Mangalavada
 # Palar #
-6986;6985;river_large;9726;7511;1925;7509;1933;Cascantum-Ilurcis
-6983;7028;river_large;9727;7440;1917;7437;1925;Cascantum-Ilurcis
+6986;6985;river_large;9726;7511;1925;7509;1933;Sopattinam~Mavilankai
+6983;7028;river_large;9727;7440;1917;7437;1925;Arkatapura~Tirumala
 # Ponnaiyar #
-6936;6987;river_large;9728;7540;1851;7534;1857;Cascantum-Ilurcis
+6936;6987;river_large;9728;7540;1851;7534;1857;Karige~Colapattinam
 # Mahaweli #
-6976;6967;river_large;9730;7812;1715;7818;1713;Cascantum-Ilurcis
+6976;6967;river_large;9730;7812;1715;7818;1713;Girikandi~Nagadiba
 ## Middle East ##
 # Phasis #
-1717;1720;river_large;9731;3617;2730;3620;2724;Cascantum-Ilurcis
-1707;1706;river_large;9732;3671;2747;3673;2741;Cascantum-Ilurcis
+1717;1720;river_large;9731;3617;2730;3620;2724;Chaladidi~Phasis
+1707;1706;river_large;9732;3671;2747;3673;2741;Kotais~Rhodopolis
 # Kur #
-1652;1644;river_large;9734;4141;2700;4147;2708;Cascantum-Ilurcis
-1661;1635;river_large;9736;4034;2717;4035;2725;Cascantum-Ilurcis
-1638;1672;river_large;9738;4080;2650;4074;2657;Cascantum-Ilurcis
+1652;1644;river_large;9734;4141;2700;4147;2708;Talish~Paytakaran
+1661;1635;river_large;9736;4034;2717;4035;2725;Arash~Nyudi
+1638;1672;river_large;9738;4080;2650;4074;2657;Warthan~Southeast Arran
 # Mesopotamia #
-891;893;river_large;9789;3991;2110;3994;2118;Cascantum-Ilurcis
-835;883;river_large;9743;3913;2202;3920;2206;Cascantum-Ilurcis
-861;863;river_large;9745;3864;2268;3862;2278;Cascantum-Ilurcis
-892;977;river_large;9747;4034;2139;4041;2142;Cascantum-Ilurcis
-899;914;river_large;9749;4074;2054;4080;2055;Cascantum-Ilurcis
-933;973;river_large;9751;4224;2023;4231;2027;Cascantum-Ilurcis
-939;934;river_large;9752;4288;1927;4294;1933;Cascantum-Ilurcis
-923;936;river_large;7719;4182;1912;4188;1915;Cascantum-Ilurcis
-954;904;river_large;9755;3932;2038;3940;2042;Cascantum-Ilurcis
-906;907;river_large;9756;3838;2069;3833;2077;Cascantum-Ilurcis
-827;828;river_large;9758;3733;2095;3741;2101;Cascantum-Ilurcis
-804;853;river_large;9761;3604;2130;3603;2140;Cascantum-Ilurcis
-807;809;river_large;9767;3517;2190;3525;2193;Cascantum-Ilurcis
-823;874;river_large;9771;3719;2221;3725;2227;Cascantum-Ilurcis
-919;921;river_large;9773;4107;1959;4112;1965;Cascantum-Ilurcis
-
+891;893;river_large;9789;3991;2110;3994;2118;Takrit~Samarra
+835;883;river_large;9743;3913;2202;3920;2206;Hatra~Ashur
+861;863;river_large;9745;3864;2268;3862;2278;Apqu~Balad
+892;977;river_large;9747;4034;2139;4041;2142;Dura~Shahraban
+899;914;river_large;9749;4074;2054;4080;2055;Bagdata~Opis
+933;973;river_large;9751;4224;2023;4231;2027;Apamea~Bakusaya
+939;934;river_large;9752;4288;1927;4294;1933;Larsa~Kashkar
+923;936;river_large;7719;4182;1912;4188;1915;Qadissiyya~Medain
+954;904;river_large;9755;3932;2038;3940;2042;Haditha~Idu
+906;907;river_large;9756;3838;2069;3833;2077;Anatho~Haradu
+827;828;river_large;9758;3733;2095;3741;2101;Circesium~Terqa
+804;853;river_large;9761;3604;2130;3603;2140;Nicephorium~Ichnae
+807;809;river_large;9767;3517;2190;3525;2193;Hierapolis~Europos
+823;874;river_large;9771;3719;2221;3725;2227;Shadikanni~Thannuris
+919;921;river_large;9773;4107;1959;4112;1965;Borsippa~Marad
+### Portages ###
+8589;8574;sea;8541;2571;3640;2630;3603;Daugava_4~Borysthenes_15
+8046;9194;sea;8963;3563;3309;3573;3323;Tanais~Rha_4
 
 -1;-1;;-1;-1

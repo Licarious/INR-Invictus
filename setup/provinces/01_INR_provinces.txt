@@ -39,7 +39,7 @@
 }
 
 9287={ #Padus10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -49,7 +49,7 @@
 }
 
 9288={ #Padus11
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -59,7 +59,7 @@
 }
 
 9289={ #Tanarus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -69,7 +69,7 @@
 }
 
 9290={ #Tanarus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -79,7 +79,7 @@
 }
 
 9291={ #Ticinus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -89,7 +89,7 @@
 }
 
 9292={ #Mincio1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -99,7 +99,7 @@
 }
 
 9293={ #Arnus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -109,7 +109,7 @@
 }
 
 9294={ #Arnus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -119,7 +119,7 @@
 }
 
 9295={ #Tiberis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -129,7 +129,7 @@
 }
 
 9296={ #Tiberis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -139,7 +139,7 @@
 }
 
 9297={ #Tiberis3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -149,7 +149,7 @@
 }
 
 9298={ #Baetis4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -159,7 +159,7 @@
 }
 
 9299={ #Baetis5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -169,7 +169,7 @@
 }
 
 9300={ #Baetis6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -179,7 +179,7 @@
 }
 
 9301={ #Flumen Anas5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -189,7 +189,7 @@
 }
 
 9302={ #Flumen Anas6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -199,7 +199,7 @@
 }
 
 9303={ #Flumen Anas7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -209,7 +209,7 @@
 }
 
 9304={ #Flumen Anas8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -219,7 +219,7 @@
 }
 
 9305={ #Flumen Anas9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -229,7 +229,7 @@
 }
 
 9306={ #Tagus7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -239,7 +239,7 @@
 }
 
 9307={ #Tagus8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -249,7 +249,7 @@
 }
 
 9308={ #Tagus9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -259,7 +259,7 @@
 }
 
 9309={ #Tagus10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -269,7 +269,7 @@
 }
 
 9310={ #Durius1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -279,7 +279,7 @@
 }
 
 9311={ #Durius2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -289,7 +289,7 @@
 }
 
 9312={ #Durius3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -299,7 +299,7 @@
 }
 
 9313={ #Iberus5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -309,7 +309,7 @@
 }
 
 9314={ #Iberus6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -319,7 +319,7 @@
 }
 
 9315={ #Iberus7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -329,7 +329,7 @@
 }
 
 9316={ #Sicoris1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -339,7 +339,7 @@
 }
 
 9317={ #Sicoris2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -349,7 +349,7 @@
 }
 
 9318={ #Garumna5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -359,7 +359,7 @@
 }
 
 9319={ #Garumna6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -369,7 +369,7 @@
 }
 
 9320={ #Garumna7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -379,7 +379,7 @@
 }
 
 9321={ #Garumna8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -389,7 +389,7 @@
 }
 
 9322={ #Duranius1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -399,7 +399,7 @@
 }
 
 9323={ #Duranius2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -409,7 +409,7 @@
 }
 
 9324={ #Duranius3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -419,7 +419,7 @@
 }
 
 9325={ #Duranius4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -429,7 +429,7 @@
 }
 
 9326={ #Liger7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -439,7 +439,7 @@
 }
 
 9327={ #Liger8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -449,7 +449,7 @@
 }
 
 9328={ #Liger9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -459,7 +459,7 @@
 }
 
 9329={ #Liger10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -469,7 +469,7 @@
 }
 
 9330={ #Liger11
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -479,7 +479,7 @@
 }
 
 9331={ #Liger12
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -489,7 +489,7 @@
 }
 
 9332={ #Sequana6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -499,7 +499,7 @@
 }
 
 9333={ #Sequana7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -509,7 +509,7 @@
 }
 
 9334={ #Sequana8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -519,7 +519,7 @@
 }
 
 9335={ #Sequana9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -529,7 +529,7 @@
 }
 
 9336={ #Sequana10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -539,7 +539,7 @@
 }
 
 9337={ #Icauna1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -549,7 +549,7 @@
 }
 
 9338={ #Icauna2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -559,7 +559,7 @@
 }
 
 9339={ #Latinum1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -569,7 +569,7 @@
 }
 
 9340={ #Latinum2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -579,7 +579,7 @@
 }
 
 9341={ #Latinum3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -589,7 +589,7 @@
 }
 
 9342={ #Latinum4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -599,7 +599,7 @@
 }
 
 9343={ #Isara1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -609,7 +609,7 @@
 }
 
 9344={ #Isara2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -619,7 +619,7 @@
 }
 
 9345={ #Isara3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -629,7 +629,7 @@
 }
 
 9346={ #Isara4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -639,7 +639,7 @@
 }
 
 9347={ #Axona1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -649,7 +649,7 @@
 }
 
 9348={ #Axona2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -659,7 +659,7 @@
 }
 
 9349={ #Scaldis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -669,7 +669,7 @@
 }
 
 9350={ #Scaldis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -679,7 +679,7 @@
 }
 
 9351={ #Scaldis3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -689,7 +689,7 @@
 }
 
 9352={ #Scaldis4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -699,7 +699,7 @@
 }
 
 9353={ #Rhodanus5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -709,7 +709,7 @@
 }
 
 9354={ #Arar1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -719,7 +719,7 @@
 }
 
 9355={ #Arar2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -729,7 +729,7 @@
 }
 
 9356={ #Arar3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -739,7 +739,7 @@
 }
 
 9357={ #Druentia1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -749,7 +749,7 @@
 }
 
 9358={ #Druentia2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -759,7 +759,7 @@
 }
 
 9359={ #Tamesis3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -769,7 +769,7 @@
 }
 
 9360={ #Sabrina1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -779,7 +779,7 @@
 }
 
 9361={ #Sabrina2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -789,7 +789,7 @@
 }
 
 9362={ #Sabrina3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -799,7 +799,7 @@
 }
 
 9363={ #Auvona1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -809,7 +809,7 @@
 }
 
 9364={ #Auvona2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -818,8 +818,8 @@
 	province_rank=""
 }
 
-9365={ #Hull2
-	terrain="riverine_terrain"
+9365={ #Abus2
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -828,8 +828,8 @@
 	province_rank=""
 }
 
-9366={ #Hull3
-	terrain="riverine_terrain"
+9366={ #Abus3
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -839,7 +839,7 @@
 }
 
 9367={ #TrosHynt1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -849,7 +849,7 @@
 }
 
 9368={ #TrosHynt2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -859,7 +859,7 @@
 }
 
 9369={ #TrosHynt3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -909,7 +909,7 @@
 }
 
 9374={ #Moenus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -919,7 +919,7 @@
 }
 
 9375={ #Musalla1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -929,7 +929,7 @@
 }
 
 9376={ #Musalla2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -939,7 +939,7 @@
 }
 
 9377={ #Musalla3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -949,7 +949,7 @@
 }
 
 9378={ #Mosa1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -959,7 +959,7 @@
 }
 
 9379={ #Mosa2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -969,7 +969,7 @@
 }
 
 9380={ #Mosa3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -979,7 +979,7 @@
 }
 
 9381={ #Mosa4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -989,7 +989,7 @@
 }
 
 9382={ #Mosa5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -999,7 +999,7 @@
 }
 
 9383={ #Mosa6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1009,7 +1009,7 @@
 }
 
 9384={ #Mosa7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1019,7 +1019,7 @@
 }
 
 9385={ #Mosa8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1029,7 +1029,7 @@
 }
 
 9386={ #Isala1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1039,7 +1039,7 @@
 }
 
 9387={ #Amisius1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1049,7 +1049,7 @@
 }
 
 9388={ #Amisius2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1059,7 +1059,7 @@
 }
 
 9389={ #Visurgis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1069,7 +1069,7 @@
 }
 
 9390={ #Visurgis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1099,7 +1099,7 @@
 }
 
 9393={ #Albis8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1109,7 +1109,7 @@
 }
 
 9394={ #Sala1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1119,7 +1119,7 @@
 }
 
 9395={ #Sala2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1159,7 +1159,7 @@
 }
 
 9399={ #Viadua5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1169,7 +1169,7 @@
 }
 
 9400={ #Viadua6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1179,7 +1179,7 @@
 }
 
 9401={ #Viadua7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1189,7 +1189,7 @@
 }
 
 9402={ #Viadua8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1199,7 +1199,7 @@
 }
 
 9403={ #Viadua9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1209,7 +1209,7 @@
 }
 
 9404={ #Viadua10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1219,7 +1219,7 @@
 }
 
 9405={ #Gota Alv1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1229,7 +1229,7 @@
 }
 
 9406={ #Ouistoula6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1239,7 +1239,7 @@
 }
 
 9407={ #Ouistoula7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1249,7 +1249,7 @@
 }
 
 9408={ #Ouistoula8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1259,7 +1259,7 @@
 }
 
 9409={ #Ouistoula9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1269,7 +1269,7 @@
 }
 
 9410={ #Ouistoula10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1279,7 +1279,7 @@
 }
 
 9411={ #Ouistoula11
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1289,7 +1289,7 @@
 }
 
 9412={ #Entomo1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1299,7 +1299,7 @@
 }
 
 9413={ #Entomo2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1309,7 +1309,7 @@
 }
 
 9414={ #Entomo3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1319,7 +1319,7 @@
 }
 
 9415={ #Entomo4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1329,7 +1329,7 @@
 }
 
 9416={ #Entomo5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1339,7 +1339,7 @@
 }
 
 9417={ #Entomo6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1349,7 +1349,7 @@
 }
 
 9418={ #Entomo7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1359,7 +1359,7 @@
 }
 
 9419={ #Turuntus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1369,7 +1369,7 @@
 }
 
 9420={ #Turuntus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1379,7 +1379,7 @@
 }
 
 9421={ #Turuntus3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1389,7 +1389,7 @@
 }
 
 9422={ #Turuntus4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1399,7 +1399,7 @@
 }
 
 9423={ #Turuntus5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1409,7 +1409,7 @@
 }
 
 9424={ #Turuntus6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1419,7 +1419,7 @@
 }
 
 9425={ #Turuntus7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1429,7 +1429,7 @@
 }
 
 9426={ #Neris1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1439,7 +1439,7 @@
 }
 
 9427={ #Neris2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1449,7 +1449,7 @@
 }
 
 9428={ #Neris3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1459,7 +1459,7 @@
 }
 
 9429={ #Strymon1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1469,7 +1469,7 @@
 }
 
 9430={ #Evros1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1479,7 +1479,7 @@
 }
 
 9431={ #Evros2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1489,7 +1489,7 @@
 }
 
 9432={ #Evros3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1609,7 +1609,7 @@
 }
 
 9444={ #Danuvius12
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1619,7 +1619,7 @@
 }
 
 9445={ #Danuvius13
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1629,7 +1629,7 @@
 }
 
 9446={ #Danuvius14
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1639,7 +1639,7 @@
 }
 
 9447={ #Danuvius15
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1649,7 +1649,7 @@
 }
 
 9448={ #Danuvius16
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1659,7 +1659,7 @@
 }
 
 9449={ #Danuvius17
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1669,7 +1669,7 @@
 }
 
 9450={ #Sio1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1679,7 +1679,7 @@
 }
 
 9451={ #Sio2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1729,7 +1729,7 @@
 }
 
 9456={ #Dravus5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1739,7 +1739,7 @@
 }
 
 9457={ #Dravus6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1809,7 +1809,7 @@
 }
 
 9464={ #Crisus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1819,7 +1819,7 @@
 }
 
 9465={ #Crisus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1829,7 +1829,7 @@
 }
 
 9466={ #Marisus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1839,7 +1839,7 @@
 }
 
 9467={ #Marisus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1909,7 +1909,7 @@
 }
 
 9474={ #Savus7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1919,7 +1919,7 @@
 }
 
 9475={ #Savus8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1929,7 +1929,7 @@
 }
 
 9476={ #Rabon1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1939,7 +1939,7 @@
 }
 
 9477={ #Rabon2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1949,7 +1949,7 @@
 }
 
 9478={ #Rabon3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1959,7 +1959,7 @@
 }
 
 9479={ #Aluta1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1969,7 +1969,7 @@
 }
 
 9480={ #Aluta2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1979,7 +1979,7 @@
 }
 
 9481={ #Aluta3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1989,7 +1989,7 @@
 }
 
 9482={ #Argessos1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -1999,7 +1999,7 @@
 }
 
 9483={ #Argessos2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2009,7 +2009,7 @@
 }
 
 9484={ #Naparis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2019,7 +2019,7 @@
 }
 
 9485={ #Naparis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2029,7 +2029,7 @@
 }
 
 9486={ #Hierasus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2039,7 +2039,7 @@
 }
 
 9487={ #Hierasus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2049,7 +2049,7 @@
 }
 
 9488={ #Araros1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2059,7 +2059,7 @@
 }
 
 9489={ #Pyretus1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2069,7 +2069,7 @@
 }
 
 9490={ #Pyretus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2079,7 +2079,7 @@
 }
 
 9491={ #Pyretus3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2089,7 +2089,7 @@
 }
 
 9492={ #Pyretus4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2099,7 +2099,7 @@
 }
 
 9493={ #Pyretus5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2109,7 +2109,7 @@
 }
 
 9494={ #Pyretus6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2119,7 +2119,7 @@
 }
 
 9495={ #Tyras4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2129,7 +2129,7 @@
 }
 
 9496={ #Tyras5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2139,7 +2139,7 @@
 }
 
 9497={ #Tyras6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2149,7 +2149,7 @@
 }
 
 9498={ #Tyras7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2159,7 +2159,7 @@
 }
 
 9499={ #Hypanis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2169,7 +2169,7 @@
 }
 
 9500={ #Hypanis3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2179,7 +2179,7 @@
 }
 
 9501={ #Hypanis4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2189,7 +2189,7 @@
 }
 
 9502={ #Danu1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2199,7 +2199,7 @@
 }
 
 9503={ #Danu2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2209,7 +2209,7 @@
 }
 
 9504={ #Lik1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2219,7 +2219,7 @@
 }
 
 9505={ #Lik2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2229,7 +2229,7 @@
 }
 
 9506={ #Lik3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2279,7 +2279,7 @@
 }
 
 9511={ #Rha13
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2289,7 +2289,7 @@
 }
 
 9512={ #Rha14
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2299,7 +2299,7 @@
 }
 
 9513={ #Kuban1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2309,7 +2309,7 @@
 }
 
 9514={ #Kuban2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2319,7 +2319,7 @@
 }
 
 9515={ #Kuban3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2329,7 +2329,7 @@
 }
 
 9516={ #Kuban4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2339,7 +2339,7 @@
 }
 
 9517={ #Kuban5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2349,7 +2349,7 @@
 }
 
 9518={ #Kuban6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2359,7 +2359,7 @@
 }
 
 9519={ #Terek1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2369,7 +2369,7 @@
 }
 
 9520={ #Terek2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2379,7 +2379,7 @@
 }
 
 9521={ #Terek3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2389,7 +2389,7 @@
 }
 
 9522={ #Terek4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2399,7 +2399,7 @@
 }
 
 9523={ #Sububus2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2409,7 +2409,7 @@
 }
 
 9524={ #Sububus3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2419,7 +2419,7 @@
 }
 
 9525={ #Mater Vernis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2429,7 +2429,7 @@
 }
 
 9526={ #Mater Vernis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2439,7 +2439,7 @@
 }
 
 9527={ #Tritonis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2449,7 +2449,7 @@
 }
 
 9528={ #Nile35
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2479,7 +2479,7 @@
 }
 
 9531={ #Nile38
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2539,7 +2539,7 @@
 }
 
 9537={ #Nile44
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2609,7 +2609,7 @@
 }
 
 9544={ #Nile51
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2639,7 +2639,7 @@
 }
 
 9547={ #Nile54
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2669,7 +2669,7 @@
 }
 
 9550={ #Nile57
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2749,7 +2749,7 @@
 }
 
 9558={ #Tikuri Abayi1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2759,7 +2759,7 @@
 }
 
 9559={ #Tikuri Abayi2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2769,7 +2769,7 @@
 }
 
 9560={ #Tikuri Abayi3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2849,7 +2849,7 @@
 }
 
 9568={ #Daikos1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2859,7 +2859,7 @@
 }
 
 9569={ #Daikos2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2869,7 +2869,7 @@
 }
 
 9570={ #Daikos3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2879,7 +2879,7 @@
 }
 
 9571={ #Daikos4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2889,7 +2889,7 @@
 }
 
 9572={ #Daikos5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -2899,7 +2899,7 @@
 }
 
 9573={ #Daikos6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3129,7 +3129,7 @@
 }
 
 9596={ #Jaxartes1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3139,7 +3139,7 @@
 }
 
 9597={ #Jaxartes2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3149,7 +3149,7 @@
 }
 
 9598={ #Jaxartes3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3159,7 +3159,7 @@
 }
 
 9599={ #Jaxartes4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3169,7 +3169,7 @@
 }
 
 9600={ #Jaxartes5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3179,7 +3179,7 @@
 }
 
 9601={ #Jaxartes6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3189,7 +3189,7 @@
 }
 
 9602={ #Jaxartes7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3199,7 +3199,7 @@
 }
 
 9603={ #Jaxartes8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3209,7 +3209,7 @@
 }
 
 9604={ #Jaxartes9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3219,7 +3219,7 @@
 }
 
 9605={ #Jaxartes10
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3229,7 +3229,7 @@
 }
 
 9606={ #Jaxartes11
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3239,7 +3239,7 @@
 }
 
 9607={ #Aral2
-	terrain="riverine_terrain"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3249,7 +3249,7 @@
 }
 
 9608={ #Aral3
-	terrain="riverine_terrain"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3259,7 +3259,7 @@
 }
 
 9609={ #Aral4
-	terrain="riverine_terrain"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3269,7 +3269,7 @@
 }
 
 9610={ #Aral5
-	terrain="riverine_terrain"
+	terrain="coastal_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3309,7 +3309,7 @@
 }
 
 9614={ #Satluj4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3319,7 +3319,7 @@
 }
 
 9615={ #Satluj5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3329,7 +3329,7 @@
 }
 
 9616={ #Satluj6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3359,7 +3359,7 @@
 }
 
 9619={ #Chenab4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3369,7 +3369,7 @@
 }
 
 9620={ #Chenab5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3379,7 +3379,7 @@
 }
 
 9621={ #Chenab6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3389,7 +3389,7 @@
 }
 
 9622={ #Chenab7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3399,7 +3399,7 @@
 }
 
 9623={ #Indus16
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3409,7 +3409,7 @@
 }
 
 9624={ #Indus17
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3419,7 +3419,7 @@
 }
 
 9625={ #Indus18
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3429,7 +3429,7 @@
 }
 
 9626={ #Mahi1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3439,7 +3439,7 @@
 }
 
 9627={ #Mahi2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3449,7 +3449,7 @@
 }
 
 9628={ #Mahi3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3509,7 +3509,7 @@
 }
 
 9634={ #Tapi3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3519,7 +3519,7 @@
 }
 
 9635={ #Tapi4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3529,7 +3529,7 @@
 }
 
 9636={ #Tapi5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3569,7 +3569,7 @@
 }
 
 9640={ #Mahanadi4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3579,7 +3579,7 @@
 }
 
 9641={ #Mahanadi5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3589,7 +3589,7 @@
 }
 
 9642={ #Mahanadi6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3599,7 +3599,7 @@
 }
 
 9643={ #Brahmani1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3609,7 +3609,7 @@
 }
 
 9644={ #Brahmani2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3619,7 +3619,7 @@
 }
 
 9645={ #Brahmani3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3629,7 +3629,7 @@
 }
 
 9646={ #Brahmani4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3789,7 +3789,7 @@
 }
 
 9662={ #Chambal4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3799,7 +3799,7 @@
 }
 
 9663={ #Chambal5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3849,7 +3849,7 @@
 }
 
 9668={ #Gomti1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3859,7 +3859,7 @@
 }
 
 9669={ #Gomti2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3869,7 +3869,7 @@
 }
 
 9670={ #Gomti3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3879,7 +3879,7 @@
 }
 
 9671={ #Gomti4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3889,7 +3889,7 @@
 }
 
 9672={ #Gomti5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3899,7 +3899,7 @@
 }
 
 9673={ #Ghaghara1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3909,7 +3909,7 @@
 }
 
 9674={ #Ghaghara2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3919,7 +3919,7 @@
 }
 
 9675={ #Ghaghara3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3929,7 +3929,7 @@
 }
 
 9676={ #Ghaghara4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3939,7 +3939,7 @@
 }
 
 9677={ #Gandak1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3949,7 +3949,7 @@
 }
 
 9678={ #Gandak2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3959,7 +3959,7 @@
 }
 
 9679={ #Gandak3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3969,7 +3969,7 @@
 }
 
 9680={ #Kosi1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3979,7 +3979,7 @@
 }
 
 9681={ #Kosi2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -3989,7 +3989,7 @@
 }
 
 9682={ #Kosi3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4079,7 +4079,7 @@
 }
 
 9691={ #Ganges29
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4149,7 +4149,7 @@
 }
 
 9698={ #Godavari4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4159,7 +4159,7 @@
 }
 
 9699={ #Godavari5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4169,7 +4169,7 @@
 }
 
 9700={ #Godavari6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4179,7 +4179,7 @@
 }
 
 9701={ #Godavari7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4189,7 +4189,7 @@
 }
 
 9702={ #Godavari8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4199,7 +4199,7 @@
 }
 
 9703={ #Godavari9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4209,7 +4209,7 @@
 }
 
 9704={ #Wainganga1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4219,7 +4219,7 @@
 }
 
 9705={ #Wainganga2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4229,7 +4229,7 @@
 }
 
 9706={ #Wainganga3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4239,7 +4239,7 @@
 }
 
 9707={ #Wainganga4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4279,7 +4279,7 @@
 }
 
 9711={ #Krishna6
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4289,7 +4289,7 @@
 }
 
 9712={ #Krishna7
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4299,7 +4299,7 @@
 }
 
 9713={ #Krishna8
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4309,7 +4309,7 @@
 }
 
 9714={ #Krishna9
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4319,7 +4319,7 @@
 }
 
 9715={ #Bhima1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4329,7 +4329,7 @@
 }
 
 9716={ #Bhima2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4339,7 +4339,7 @@
 }
 
 9717={ #Bhima3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4349,7 +4349,7 @@
 }
 
 9718={ #Bhima4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4359,7 +4359,7 @@
 }
 
 9719={ #Tungabhadra1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4369,7 +4369,7 @@
 }
 
 9720={ #Tungabhadra2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4379,7 +4379,7 @@
 }
 
 9721={ #Tungabhadra3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4389,7 +4389,7 @@
 }
 
 9722={ #Tungabhadra4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4399,7 +4399,7 @@
 }
 
 9723={ #Penner3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4409,7 +4409,7 @@
 }
 
 9724={ #Penner4
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4419,7 +4419,7 @@
 }
 
 9725={ #Penner5
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4429,7 +4429,7 @@
 }
 
 9726={ #Palar1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4439,7 +4439,7 @@
 }
 
 9727={ #Palar2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4449,7 +4449,7 @@
 }
 
 9728={ #Ponnaiyar1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4459,7 +4459,7 @@
 }
 
 9729={ #Ponnaiyar2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4469,7 +4469,7 @@
 }
 
 9730={ #Mahaweli1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4479,7 +4479,7 @@
 }
 
 9731={ #Phasis1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4489,7 +4489,7 @@
 }
 
 9732={ #Phasis2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4499,7 +4499,7 @@
 }
 
 9733={ #Phasis3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4509,7 +4509,7 @@
 }
 
 9734={ #Kur1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4519,7 +4519,7 @@
 }
 
 9735={ #Kur2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4529,7 +4529,7 @@
 }
 
 9736={ #Kur3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4539,7 +4539,7 @@
 }
 
 9737={ #Araxes1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4549,7 +4549,7 @@
 }
 
 9738={ #Araxes2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4559,7 +4559,7 @@
 }
 
 9739={ #Araxes3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4639,7 +4639,7 @@
 }
 
 9747={ #Uzaym1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4649,7 +4649,7 @@
 }
 
 9748={ #Uzaym2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4659,7 +4659,7 @@
 }
 
 9749={ #Diyalas1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4669,7 +4669,7 @@
 }
 
 9750={ #Diyalas2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4679,7 +4679,7 @@
 }
 
 9751={ #Tigris15
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4689,7 +4689,7 @@
 }
 
 9752={ #Tigris16
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4789,7 +4789,7 @@
 }
 
 9762={ #Euphrates15
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4798,8 +4798,8 @@
 	province_rank=""
 }
 
-9763={ #Euphrates16
-	terrain="riverine_terrain"
+9763={ #Gomti6
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4809,7 +4809,7 @@
 }
 
 9764={ #Euphrates17
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4819,7 +4819,7 @@
 }
 
 9765={ #Euphrates18
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4829,7 +4829,7 @@
 }
 
 9766={ #Euphrates19
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4839,7 +4839,7 @@
 }
 
 9767={ #Euphrates20
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4849,7 +4849,7 @@
 }
 
 9768={ #Euphrates21
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4859,7 +4859,7 @@
 }
 
 9769={ #Chaboras1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4869,7 +4869,7 @@
 }
 
 9770={ #Chaboras2
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4879,7 +4879,7 @@
 }
 
 9771={ #Chaboras3
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4889,7 +4889,7 @@
 }
 
 9772={ #Euphrates22
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4899,7 +4899,7 @@
 }
 
 9773={ #Euphrates23
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""
@@ -4909,7 +4909,7 @@
 }
 
 9788={ #Musi1
-	terrain="riverine_terrain"
+	terrain="tributary_terrain"
 	culture=""
 	religion=""
 	trade_goods=""

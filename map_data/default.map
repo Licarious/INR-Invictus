@@ -214,5 +214,5 @@ sea_zones = LIST { 6444 }
 sea_zones = RANGE { 4569 4588 } #Caspian
 sea_zones = RANGE { 2988 2999 } #Caspian
 
-#unused provs 7860 9250 9763-9766
+#unused provs 7860 9250 9764-9766
 

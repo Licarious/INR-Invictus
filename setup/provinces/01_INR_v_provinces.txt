@@ -405,16 +405,6 @@
 	barbarian_power=0 
 	province_rank="" 
 } 
-#Aral Sea 
-6444 ={ #LAKE 
-	terrain="coastal_terrain" 
-	culture="" 
-	religion="" 
-	trade_goods="" 
-	civilization_value=0 
-	barbarian_power=0 
-	province_rank="" 
-} 
 
 
 8019 ={ #Pontus Euxinus 
