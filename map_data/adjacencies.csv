@@ -181,7 +181,7 @@
 3582;3575;river_large;8034;1532;2649;1534;2653;Cremona-Placentia
 3589;3591;river_large;8032;1608;2652;1608;2646;Hostilia-Vicus Varianus
 #Thames
-2022;2028;river_large;8035;973;3256;974;3250;Londinium-Noviomagus
+2022;2038;river_large;8035;973;3256;974;3250;Londinium-Noviomagus
 #Don
 6178;5884;river_large;8042;3356;3125;3359;3118;Ganka-Katys
 6191;6192;river_large;8044;3440;3184;3443;3176;Khang-Syutnich
@@ -268,7 +268,7 @@
 16;20;river_large;9296;1709;2393;1717;2395;Veii~Reate
 ## Iberia ##
 # Baetis #
-1378;1377;river_large;9159;515;2091;516;2084;Epora~Corduba
+1378;1377;river_large;9298;515;2091;516;2084;Epora~Corduba
 1383;1381;river_large;9299;575;2083;580;2089;Iliturgis~Castulo
 # Flumen Anas #
 1425;1429;river_large;9301;359;2196;364;2192;AdAtrumFlumen~CelticaInferioris
@@ -278,7 +278,7 @@
 1200;1438;river_large;9308;539;2274;538;2267;CarpetaniaSuperioris~Caesarobriga
 # Durius #
 1289;1291;river_large;9310;303;2420;303;2412;Tongobriga~Langobriga
-1156;1290;river_large;9312;382;2412;380;2403;VicusVagornicensis~Aravorum
+1156;1290;river_large;9311;382;2412;380;2403;VicusVagornicensis~Aravorum
 # Iberus #
 1011;1070;river_large;9313;831;2367;838;2373;Celsa~GallikaPhlaouia
 1089;1088;river_large;9315;777;2417;783;2423;Cascantum~Ilurcis
@@ -337,6 +337,7 @@
 3845;3846;river_large;9378;1205;3259;1208;3265;Marsacia~Lugadurum
 3711;3712;river_large;9379;1278;3250;1283;3255;Blariacum~Batavodurum
 3681;3718;river_large;9382;1278;3165;1286;3164;Tungrorum~AquaeGranni
+3704;3705;river_large;9383;1231;3116;1238;3114;BataviaCentralis~BataviaSepentrionalis
 3704;7732;river_large;9383;1230;3155;1237;3155;BataviaCentralis~Vicus Augustanus
 3050;3686;river_large;9385;1245;3044;1251;3046;Mosomagus~Eposium
 3851;3776;river_large;9386;1312;3280;1317;3277;Isala~Asciburgium
@@ -361,7 +362,7 @@
 # Ouistoula #
 6273;6275;river_large;9183;2153;3302;2164;3306;Sopha~Korotan
 6259;6260;river_large;9408;2208;3199;2217;3200;Urgana~Folla
-4496;4890;river_large;9410;2122;3128;2125;3119;Machhindrapur~Agrum*
+4896;4890;river_large;9410;2122;3128;2125;3119;Valitum*~Agrum*
 6277;6275;river_large;9412;2138;3345;2141;3337;Duretica~Korotan
 6291;6292;river_large;9415;2293;3295;2300;3291;Vorytta~Trakylli
 6249;6248;river_large;9417;2340;3203;2346;3206;Celavira~Bonava
@@ -376,7 +377,7 @@
 # Strymon #
 366;365;river_large;9429;2470;2337;2475;2340;Tragilos~Amfipolis
 # Evros #
-357;364;river_large;9430;2628;2364;2634;2356;Sale~Philippi
+357;354;river_large;9430;2628;2364;2634;2356;Sale~Philippi
 491;489;river_large;9432;2637;2442;2644;2445;Bourdepa~Nike
 # Danuvius #
 4169;4844;river_large;9190;2080;2772;2090;2772;Lugio~Florentia
@@ -422,7 +423,7 @@
 5899;5892;river_large;9505;3506;3110;3508;3101;Gura~Sechem
 # Rha #
 5876;8050;river_large;8047;3850;3156;3854;3165;Sechtra~Moslar
-5899;8050;river_large;8047;3862;3196;3869;3202;Gura~Moslar
+5877;8050;river_large;8047;3862;3196;3869;3202;Gura~Moslar
 5877;5878;river_large;8048;3910;3255;3913;3264;PASS~PASS
 6221;6225;river_large;9507;3778;3255;3779;3264;Zhelk~Monok
 6218;6221;river_large;9508;3720;3258;3728;3263;Mennichak~Zhelk
@@ -466,16 +467,17 @@
 ## Central Asia ##
 # Daikos #
 5879;5880;river_large;9568;4049;3382;4057;3388;PASS~PASS
-8940;5933;river_large;9570;3990;3492;3998;3494;Inder~Vylda
+8940;8941;river_large;9570;3990;3492;3998;3494;Inder~Chokun
 9112;9111;river_large;9573;3872;3661;3881;3663;Uase~Levedi
 # Oxus #
 5424;6811;river_large;9574;4453;2849;4458;2838;Venas~Hazar
 5452;6808;river_large;9576;4576;2919;4579;2908;Oshin~Uzboia
 5455;5454;river_large;9578;4565;3052;4575;3054;Palimek~Yatsha
-5477;6797;river_large;9579;4601;3156;4612;3149;Kilich~Vezir
+6803;6797;river_large;9579;4619;3170;4622;3160;Gurganj~Vezir
 6800;9238;river_large;9582;4833;3194;4835;3203;Hazarasp~Sho'rtakli
 6708;9236;river_large;9584;4984;3124;4987;3135;Chadracarta~Qarako'l
 7241;7230;river_large;9587;5157;3081;5161;3090;Shor~Kerkichi
+7227;7228;river_large;9589;5261;3075;5265;3068;Kerki~Dilbarjin
 6686;6690;river_large;9591;5377;3104;5378;3113;Termaio~Sangin
 6803;9240;river_large;9593;4698;3218;4701;3228;Gurganj~Sokkul
 5484;7260;river_large;9595;4619;3314;4631;3318;Cammei~Kupir*
@@ -536,6 +538,7 @@
 7342;7348;river_large;9683;7448;3514;7456;3511;Hajo~Davaka
 7351;7352;river_large;9686;7542;3696;7550;3696;Japa*~Turupa*
 7345;7393;river_large;9691;7479;3072;7485;3069;Nabadwipa~Kasipur
+7496;7495;river_large;9689;7497;3317;7501;3327;Bhaluka~Egarosindur
 # Irrawaddy #
 8770;8771;river_large;9692;8091;3237;8100;3244;Taledan~Sri Ksetra
 8788;8774;river_large;9693;7977;3299;7981;3309;Salin~Ywa Htin Kon
@@ -544,7 +547,7 @@
 # Godavari #
 7056;7123;river_large;9222;7290;2333;7291;2346;Gummididurru~Alatnapura*
 7124;7155;river_large;9698;7146;2350;7155;2349;Dhamna*~Kaulas
-7158;8789;river_large;9700;7024;2272;7031;2265;Indur~Pai
+7158;7079;river_large;9700;7024;2272;7031;2265;Indur~Potana
 7146;7161;river_large;9702;6896;2197;6896;2207;Asmakhala~Darur
 7133;5317;sea;9697;0;0;0;0;Kotilingala~IP 318
 7124;5317;sea;9704;0;0;0;0;Dhamna*~IP 318
@@ -592,6 +595,7 @@
 827;828;river_large;9758;3733;2095;3741;2101;Circesium~Terqa
 804;853;river_large;9761;3604;2130;3603;2140;Nicephorium~Ichnae
 807;809;river_large;9767;3517;2190;3525;2193;Hierapolis~Europos
+826;828;river_large;9769;3734;2119;3741;2117;Appadana~Terqa
 823;874;river_large;9771;3719;2221;3725;2227;Shadikanni~Thannuris
 919;921;river_large;9773;4107;1959;4112;1965;Borsippa~Marad
 ### Portages ###
