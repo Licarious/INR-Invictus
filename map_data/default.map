@@ -99,7 +99,7 @@ lakes = RANGE { 7661 7664 }
 
 lakes = RANGE { 8040 8041 } # Marius/ Eblu+Aksehir
 lakes = RANGE { 8052 8054 } # Marius
-lakes = LIST { 6299 6352 6353 6375 6398 6419 6421 6430 6432 6438 6441 6442 8388 8394 8721 8745 8746 8747 8814 }
+lakes = LIST { 6299 6352 6353 6375 6398 6419 6421 6432 6438 6441 6442 8388 8394 8721 8745 8746 8747 8814 }
 
 #Major Rivers
 river_provinces = RANGE { 7666 7667 } # Nile River
@@ -147,7 +147,7 @@ river_provinces = RANGE { 9332 9348 } # Sequana ext		17
 river_provinces = RANGE { 9349 9352 } # Scaldis			4
 river_provinces = RANGE { 9353 9358 } # Rhodanus ext	6
 #	Britain											11
-river_provinces = List { 9359 } # Tamesis ext			1
+river_provinces = LIST { 9359 } # Tamesis ext			1
 river_provinces = RANGE { 9360 9364 } # Sabrina			5
 river_provinces = RANGE { 9365 9369 } # Abus ext		5
 #	Germanic										36
@@ -194,7 +194,7 @@ river_provinces = RANGE { 9633 9636 } # Tapi ext		4
 river_provinces = RANGE { 9637 9642 } # Mahanadi		6
 river_provinces = RANGE { 9643 9646 } # Brahmani		4
 river_provinces = RANGE { 9647 9691 } # Ganges ext		45
-LAKES = RANGE { 9692 9696 } # Irrawaddy		5
+river_provinces = RANGE { 9692 9696 } # Irrawaddy		5
 #	Southern India									35
 river_provinces = RANGE { 9697 9707 } # Godavari ext	11
 river_provinces = RANGE { 9708 9722 } # Krishna ext		15
@@ -209,7 +209,7 @@ river_provinces = RANGE { 9740 9773 } # Mesopotamia		34
 
  
 #changed vanilla
-river_provinces = LIST { 5367 6306 6351 6356 6373 6374 6422 6429 6434 6435 6439 6440 6443 9789 } #misc
+river_provinces = LIST { 5367 6306 6351 6356 6373 6374 6422 6429 6430 6434 6435 6439 6440 6443 9789 } #misc
 sea_zones = LIST { 6444 }
 sea_zones = RANGE { 4569 4588 } #Caspian
 sea_zones = RANGE { 2988 2999 } #Caspian
