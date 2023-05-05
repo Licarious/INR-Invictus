@@ -17,6 +17,15 @@
 	barbarian_power=0 
 	province_rank="" 
 } 
+6374 ={ #LAKE 
+	terrain="riverine_terrain" 
+	culture="" 
+	religion="" 
+	trade_goods="" 
+	civilization_value=0 
+	barbarian_power=0 
+	province_rank="" 
+}
 6429 ={ #LAKE 
 	terrain="tributary_terrain" 
 	culture="" 
