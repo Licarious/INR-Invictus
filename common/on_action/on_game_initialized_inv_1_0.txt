@@ -28,7 +28,7 @@
 		bloodlines_startup.11 #Taulantia
 		bloodlines_startup.12 #Maurya
 		bloodlines_startup.13 #Epirus
-		bloodlines_startup.14 #Senonia
+		#bloodlines_startup.14 #Senonia
 		bloodlines_startup.15 #Etruria
 		bloodlines_startup.16 #Kios
 		bloodlines_startup.17 #Macedon

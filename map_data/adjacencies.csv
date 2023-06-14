@@ -315,7 +315,7 @@
 2319;2321;river_large;9357;1208;2546;1214;2552;Arelate~Avennio
 ## Britain ##
 # Tamesis #
-901;2027;river_large;9359;901;3267;909;3272;Tell Aswad~Verulamium
+2026;2027;river_large;9359;901;3267;909;3272;Durocornovium~Verulamium
 # Sabrina #
 2049;2039;river_large;9360;841;3303;848;3298;Vertis~Korinion
 2060;2059;river_large;9362;830;3367;835;3374;Savicum~Viroconium
@@ -404,16 +404,16 @@
 4268;4820;river_large;9480;2445;2655;2454;2658;Acidava~Ciagisia
 4816;4815;river_large;9482;2543;2668;2545;2674;Napuca~Pirum
 4811;4812;river_large;9484;2618;2697;2615;2704;Sornus~Sensia
-4804;4627;river_large;9486;2621;2796;2627;2803;Britolagia~Rayyis
+4804;4801;river_large;9486;2621;2796;2627;2803;Comidava~Rayyis
 4804;4806;river_large;9488;2637;2774;2641;2768;Britolagia~Cotesiana
 4802;4800;river_large;9489;2665;2809;2673;2813;Agarusia~Piroboridava
 4932;4928;river_large;9491;2634;2919;2640;2927;Millianum*~Leptidava*
-4194;4937;river_large;9493;2547;3010;2556;3015;Gensis~Confluentia*
+4914;4937;river_large;9493;2547;3010;2556;3015;Carsidava~Confluentia*
 # Pontic Steppe #
 # Tyras #
-4195;4937;river_large;7883;2679;2991;2687;2994;Singidunum~Confluentia*
+4915;4914;river_large;7883;2679;2991;2687;2994;Clepidava~Konae*
 4936;6070;river_large;9496;2593;3040;2595;3049;Verticem*~Lechta
-4939;4543;river_large;9498;2493;3033;2492;3043;Octavum*~Athenaion
+4939;2543;river_large;9498;2493;3033;2492;3043;Octavum*~Uccrynyika
 # Hypanis #
 7187;6100;river_large;9191;2856;2988;2860;2996;Ektonopolis*~Hkraniyat
 6088;6096;river_large;9500;2763;3046;2763;3052;Kmekhich~Vyelinat
@@ -426,7 +426,7 @@
 5877;5878;river_large;8048;3910;3255;3913;3264;PASS~PASS
 6221;6225;river_large;9507;3778;3255;3779;3264;Zhelk~Monok
 6218;6221;river_large;9508;3720;3258;3728;3263;Mennichak~Zhelk
-6217;5892;river_large;9510;3680;3321;3690;3327;Ogron~Sechem
+6217;6219;river_large;9510;3680;3321;3690;3327;Ogron~Uyennik
 6209;6211;river_large;9511;3599;3276;3609;3278;Ydomor~Urgenarcha
 # Kuban #
 7600;7612;river_large;9514;3313;2920;3308;2929;Sabiranum~Maran
@@ -488,7 +488,7 @@
 ## Western India ##
 # Indus #
 4319;4330;river_large;9612;5879;2906;5888;2909;Sattagydae~Gogaraioi
-6103;9264;river_large;9204;6103;2817;6114;2813;Vashschka~Chishtian
+4381;9264;river_large;9204;6103;2817;6114;2813;Hydrakai~Chishtian
 4393;7485;river_large;9614;6147;2929;6157;2931;Okara*~Sodal
 4390;4418;river_large;9616;6227;3014;6232;3009;Jalandhara~Satadru
 4350;4349;river_large;9617;5999;2753;6007;2756;Mulasthanapura/Multan~Malava
