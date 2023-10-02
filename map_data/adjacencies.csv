@@ -141,7 +141,7 @@
 4246;4809;river_large;7777;2626;2651;2619;2665;Durostorum-Piephigia
 4227;4267;river_large;7780;2460;2586;2453;2598;Oescus-Castris Novis
 4216;4276;river_large;7781;2361;2600;2373;2601;Bononia Moesia-Castra Bistria
-4208;4263;river_large;9184;2298;2650;2305;2662;Taliata-AdScorfulas
+4209;4211;river_large;7782;2335;2657;2342;2664;Egeta-Drobeta
 4195;4826;river_large;9186;2206;2657;2214;2668;Singidunum-Tricomium
 4191;4843;river_large;9189;2103;2692;2111;2703;Causilena-Onagrinum
 ### Rhodanus ###
@@ -303,7 +303,7 @@
 2485;2484;river_large;9339;1113;3010;1114;3017;Riobe~Calagum
 2490;2450;river_large;9341;1191;3004;1197;3008;Malliacus~Durocatalaunum
 2472;2444;river_large;9343;1081;3033;1085;3029;BrivaIsarae~Catalacus
-3044;3043;river_large;9346;1155;3097;1155;3089;Sefulae~AugustaViromanduorum
+3045;3043;river_large;9346;1155;3097;1155;3089;Sefulae~AugustaViromanduorum
 2492;2452;river_large;9347;1137;3041;1139;3049;Odomagus~AugustaSuessionum
 # Scaldis #
 3843;3844;river_large;9349;1179;3237;1185;3244;Ganuenta~Fletio
@@ -412,7 +412,7 @@
 4914;4937;river_large;9493;2547;3010;2556;3015;Carsidava~Confluentia*
 # Pontic Steppe #
 # Tyras #
-4915;4914;river_large;7883;2679;2991;2687;2994;Clepidava~Konae*
+4915;7194;river_large;7883;2679;2991;2687;2994;Clepidava~Konae*
 4936;6070;river_large;9496;2593;3040;2595;3049;Verticem*~Lechta
 4939;2543;river_large;9498;2493;3033;2492;3043;Octavum*~Uccrynyika
 # Hypanis #
