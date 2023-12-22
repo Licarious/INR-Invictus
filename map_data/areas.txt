@@ -19,6 +19,7 @@ aebocosia_area = { #11
 }
 
 aegean_islands_area = { #10
+	color = rgb { 200 180 53 }
 	provinces = { 263 375 387 437 447 454 1835 1915 1964 7905 }
 }
 
@@ -935,6 +936,7 @@ eastern_aral_area = { #9
 }
 
 eastern_delta_area = { #12
+	color = rgb { 18 5 121 }
 	provinces = { 502 508 509 510 511 524 525 535 655 656 701 7688 }
 }
 
@@ -1171,6 +1173,7 @@ helvetia_superioris_area = { #10
 }
 
 hema_nome_area = { #12
+	color = rgb { 220 70 93 }
 	provinces = { 549 551 552 553 554 555 556 557 558 559 560 561 }
 }
 
@@ -1679,6 +1682,7 @@ marmarica_occidentalis_area = { #9
 }
 
 marmarica_orientalis_area = { #10
+	color = rgb { 20 200 43 }
 	provinces = { 3374 3375 3376 3377 3378 3379 3380 3476 3477 3478 }
 }
 
@@ -2467,6 +2471,7 @@ sijilmasa_area = { #12
 }
 
 sinai_area = { #12
+	color = rgb { 220 230 53 }
 	provinces = { 505 506 1600 1604 1675 1682 1684 1688 1693 1708 1709 1710 }
 }
 
@@ -2563,6 +2568,7 @@ south_tondainadu_area = { #11
 }
 
 sporades_area = { #11
+	color = rgb { 200 30 53 }
 	provinces = { 266 280 310 1653 1830 1884 1970 1996 7936 7937 8015 }
 }
 
