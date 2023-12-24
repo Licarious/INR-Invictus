@@ -546,7 +546,7 @@ dravida_region = { #8 areas
 	}
 }
 
-eastern_indian_ocean_river_region = { #4 areas
+eastern_india_river_region = { #4 areas
 	areas = {
 		ganges_river_area
 		brahmani_river_area
@@ -1168,7 +1168,7 @@ southern_atlantic_river_region = { #6 areas
 	}
 }
 
-southern_indian_ocean_river_region = { #7 areas
+southern_india_river_region = { #7 areas
 	areas = {
 		cauvery_river_area
 		godavari_river_area
@@ -1318,7 +1318,7 @@ vistulia_region = { #8 areas
 	}
 }
 
-western_indian_ocean_river_region = { #4 areas
+western_india_river_region = { #4 areas
 	areas = {
 		indus_river_area
 		mahi_river_area
